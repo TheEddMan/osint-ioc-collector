@@ -1,118 +1,600 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8">
   <title>OSINT IOC Collector Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <!-- Simple styling -->
-  <style>
-    body { font-family: Arial, sans-serif; margin: 20px; }
-    h1 { margin-bottom: 5px; }
-    .subtitle { color: #555; font-size: 14px; margin-bottom: 15px; }
-    #searchBox { padding: 6px; width: 260px; margin-bottom: 10px; }
-    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
-    th, td { border: 1px solid #ddd; padding: 6px; font-size: 13px; }
-    th { background-color: #f0f0f0; }
-    #chartContainer { width: 100%; max-width: 900px; margin-top: 20px; }
-  </style>
+
+  <!-- Chart.js for the line chart -->
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
-<body>
-  <h1>OSINT IOC Collector</h1>
-  <div class="subtitle">
-    Live OSINT indicators collected from public threat feeds.<br>
-    Data updates automatically when the GitHub Actions workflow runs.
-  </div>
 
-  <div id="chartContainer">
-    <canvas id="iocChart"></canvas>
-  </div>
+  <!-- Basic modern styling -->
+  <style>
+    :root {
+      --bg: #050816;
+      --bg-alt: #0b1020;
+      --card: #111827;
+      --card-soft: #111827ee;
+      --border: #1f2937;
+      --accent: #38bdf8;
+      --accent-soft: rgba(56, 189, 248, 0.15);
+      --accent-strong: rgba(56, 189, 248, 0.25);
+      --text: #e5e7eb;
+      --text-soft: #9ca3af;
+      --danger: #f97373;
+      --radius-lg: 18px;
+      --shadow-soft: 0 24px 60px rgba(15, 23, 42, 0.8);
+    }
 
-  <input id="searchBox" type="text" placeholder="Search value or source...">
+    * {
+      box-sizing: border-box;
+    }
 
-  <table id="iocTable">
-    <thead>
-      <tr>
-        <th>ID</th>
-        <th>Type</th>
-        <th>Value</th>
-        <th>Source</th>
-        <th>First Seen</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: radial-gradient(circle at top, #0f172a 0, #020617 55%, #000 100%);
+      color: var(--text);
+    }
 
-<script>
-// --- load latest IOCs and populate table ---
-async function loadIOCs() {
-  const resp = await fetch('data/latest_iocs.json', {cache: "no-store"});
-  const data = await resp.json();
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 20px 16px 40px;
+    }
 
-  const tbody = document.querySelector('#iocTable tbody');
-  tbody.innerHTML = '';
+    header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 16px;
+      align-items: flex-start;
+      justify-content: space-between;
+      margin-bottom: 18px;
+    }
 
-  for (const row of data) {
-    const tr = document.createElement('tr');
-    tr.innerHTML = `
-      <td>${row.id}</td>
-      <td>${row.type}</td>
-      <td>${row.value}</td>
-      <td>${row.source}</td>
-      <td>${row.first_seen}</td>
-    `;
-    tbody.appendChild(tr);
-  }
-}
+    .title-block h1 {
+      font-size: clamp(1.8rem, 2.4vw + 1rem, 2.4rem);
+      margin: 0 0 6px;
+      letter-spacing: 0.04em;
+    }
 
-// --- search filter ---
-document.addEventListener('DOMContentLoaded', () => {
-  const searchBox = document.getElementById('searchBox');
-  searchBox.addEventListener('keyup', () => {
-    const filter = searchBox.value.toLowerCase();
-    const rows = document.querySelectorAll('#iocTable tbody tr');
-    rows.forEach(r => {
-      const text = r.innerText.toLowerCase();
-      r.style.display = text.includes(filter) ? '' : 'none';
-    });
-  });
-});
+    .title-pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, rgba(56,189,248,0.22), rgba(129,140,248,0.18));
+      color: var(--accent);
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
 
-// --- load counts & render chart ---
-async function loadChart() {
-  const resp = await fetch('data/ioc_counts.json', {cache: "no-store"});
-  const data = await resp.json();
+    .title-pill-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      background: #22c55e;
+      box-shadow: 0 0 12px #22c55e;
+    }
 
-  const labels = data.labels;
-  const types = data.types;
-  const datasets = types.map((t) => ({
-    label: t,
-    data: data.series[t],
-    fill: false,
-    tension: 0.1
-  }));
+    .subtitle {
+      margin-top: 8px;
+      max-width: 520px;
+      font-size: 13px;
+      color: var(--text-soft);
+      line-height: 1.4;
+    }
 
-  const ctx = document.getElementById('iocChart').getContext('2d');
-  new Chart(ctx, {
-    type: 'line',
-    data: { labels, datasets },
-    options: {
-      responsive: true,
-      plugins: {
-        legend: { position: 'bottom' },
-        title: { display: true, text: 'IOC count per day (last 7 days)' }
+    .meta {
+      text-align: right;
+      font-size: 12px;
+      color: var(--text-soft);
+    }
+
+    .meta span.label {
+      color: var(--text-soft);
+    }
+
+    .meta span.value {
+      color: var(--accent);
+    }
+
+    /* Layout grid for cards */
+    .grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1.6fr) minmax(0, 1.4fr);
+      gap: 16px;
+      margin-bottom: 16px;
+    }
+
+    @media (max-width: 900px) {
+      .grid {
+        grid-template-columns: minmax(0, 1fr);
+      }
+      .meta {
+        text-align: left;
       }
     }
-  });
-}
 
-async function init() {
-  await loadIOCs();
-  await loadChart();
-}
+    .card {
+      background: var(--card-soft);
+      border-radius: var(--radius-lg);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow-soft);
+      padding: 14px 14px 12px;
+      backdrop-filter: blur(10px);
+    }
 
-init();
+    .card-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .card-title {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--text-soft);
+    }
+
+    .card-subtitle {
+      font-size: 11px;
+      color: var(--text-soft);
+    }
+
+    /* Stat cards */
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+      margin-bottom: 8px;
+    }
+
+    @media (max-width: 900px) {
+      .stats-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
+    .stat-card {
+      padding: 10px;
+      border-radius: 12px;
+      background: radial-gradient(circle at top left, var(--accent-soft), transparent 55%),
+                  rgba(15, 23, 42, 0.96);
+      border: 1px solid rgba(148, 163, 184, 0.22);
+    }
+
+    .stat-label {
+      font-size: 11px;
+      color: var(--text-soft);
+      margin-bottom: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    .stat-value {
+      font-size: 18px;
+      font-weight: 600;
+    }
+
+    .stat-chip {
+      margin-top: 2px;
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 2px 7px;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.85);
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      font-size: 10px;
+      color: var(--text-soft);
+    }
+
+    /* Chart */
+    #chartContainer {
+      height: 240px;
+      margin-top: 4px;
+      background: radial-gradient(circle at top left, var(--accent-soft), transparent 70%);
+      border-radius: 14px;
+      padding: 8px 8px 4px;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+    }
+
+    #iocChart {
+      width: 100%;
+      height: 100%;
+    }
+
+    /* Table / search card */
+    .table-controls {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      margin-bottom: 8px;
+    }
+
+    #searchBox {
+      padding: 7px 10px;
+      border-radius: 999px;
+      border: 1px solid rgba(148, 163, 184, 0.5);
+      background: rgba(15, 23, 42, 0.95);
+      color: var(--text);
+      font-size: 13px;
+      min-width: 230px;
+    }
+
+    #searchBox::placeholder {
+      color: var(--text-soft);
+    }
+
+    .table-meta {
+      font-size: 11px;
+      color: var(--text-soft);
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: rgba(15, 23, 42, 0.9);
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      font-size: 10px;
+      color: var(--text-soft);
+    }
+
+    .pill-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 999px;
+      background: var(--accent);
+    }
+
+    .table-wrapper {
+      max-height: 420px;
+      overflow: auto;
+      border-radius: 12px;
+      border: 1px solid rgba(31, 41, 55, 0.9);
+      background: rgba(15, 23, 42, 0.98);
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      font-size: 12px;
+      min-width: 720px;
+    }
+
+    thead {
+      position: sticky;
+      top: 0;
+      background: linear-gradient(to bottom, #020617, #020617ee);
+      z-index: 1;
+    }
+
+    th, td {
+      padding: 6px 8px;
+      border-bottom: 1px solid rgba(31, 41, 55, 0.9);
+      text-align: left;
+      white-space: nowrap;
+    }
+
+    th {
+      font-size: 11px;
+      color: var(--text-soft);
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+    }
+
+    tbody tr:nth-child(even) {
+      background: rgba(15, 23, 42, 0.9);
+    }
+
+    tbody tr:hover {
+      background: rgba(15, 23, 42, 0.98);
+    }
+
+    .value-cell {
+      max-width: 340px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .type-chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 2px 7px;
+      border-radius: 999px;
+      font-size: 10px;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      border: 1px solid rgba(148, 163, 184, 0.4);
+    }
+
+    .type-chip.domain { color: #fbbf24; border-color: rgba(251, 191, 36, 0.5); }
+    .type-chip.ip     { color: #34d399; border-color: rgba(52, 211, 153, 0.5); }
+    .type-chip.url    { color: #38bdf8; border-color: rgba(56, 189, 248, 0.5); }
+    .type-chip.hash   { color: #a855f7; border-color: rgba(168, 85, 247, 0.5); }
+
+    footer {
+      margin-top: 20px;
+      font-size: 11px;
+      color: var(--text-soft);
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 6px;
+      opacity: 0.8;
+    }
+
+    footer a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+<div class="page">
+  <header>
+    <div class="title-block">
+      <div class="title-pill">
+        <span class="title-pill-dot"></span>
+        LIVE OSINT IOCs
+      </div>
+      <h1>OSINT IOC Collector Dashboard</h1>
+      <p class="subtitle">
+        Automated collection and enrichment of indicators from public threat feeds
+        (URLHaus, PhishTank, and more). Data below is periodically refreshed by a
+        GitHub Actions pipeline.
+      </p>
+    </div>
+    <div class="meta">
+      <div><span class="label">Next refresh:</span> <span class="value">hourly via GitHub Actions</span></div>
+      <div id="lastUpdatedLine"><span class="label">Last load:</span> <span class="value">–</span></div>
+    </div>
+  </header>
+
+  <div class="grid">
+    <!-- Left: Stats + Chart -->
+    <section class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Overview</div>
+          <div class="card-subtitle">Counts based on the latest harvested indicators</div>
+        </div>
+      </div>
+
+      <div class="stats-grid" id="statsGrid">
+        <!-- Stats populated by JS -->
+        <div class="stat-card">
+          <div class="stat-label">Total IOCs</div>
+          <div class="stat-value" id="statTotal">–</div>
+          <div class="stat-chip">
+            <span class="pill-dot"></span>
+            <span id="statSources">from feeds</span>
+          </div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">IP Addresses</div>
+          <div class="stat-value" id="statIP">–</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">Domains</div>
+          <div class="stat-value" id="statDomain">–</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">URLs</div>
+          <div class="stat-value" id="statURL">–</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">File Hashes</div>
+          <div class="stat-value" id="statHash">–</div>
+        </div>
+      </div>
+
+      <div id="chartContainer">
+        <canvas id="iocChart"></canvas>
+      </div>
+    </section>
+
+    <!-- Right: Table -->
+    <section class="card">
+      <div class="card-header">
+        <div>
+          <div class="card-title">Latest Indicators</div>
+          <div class="card-subtitle">Most recent IOCs from the collector pipeline</div>
+        </div>
+      </div>
+
+      <div class="table-controls">
+        <input id="searchBox" type="text" placeholder="Filter by value, source or type…">
+        <div class="table-meta">
+          <span class="pill">
+            <span class="pill-dot"></span>
+            <span id="tableCount">Loading IOCs…</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="table-wrapper">
+        <table id="iocTable">
+          <thead>
+          <tr>
+            <th>ID</th>
+            <th>Type</th>
+            <th>Value</th>
+            <th>Source</th>
+            <th>First Seen (UTC)</th>
+          </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </div>
+
+  <footer>
+    <div>Built as a personal threat intelligence lab: automated OSINT → enrichment → STIX → dashboard.</div>
+    <div>Repository: <a href="https://github.com/TheEddMan/osint-ioc-collector" target="_blank" rel="noopener noreferrer">TheEddMan/osint-ioc-collector</a></div>
+  </footer>
+</div>
+
+<script>
+  async function fetchJSON(path) {
+    const resp = await fetch(path, { cache: "no-store" });
+    if (!resp.ok) {
+      throw new Error("Failed to load " + path + ": " + resp.status);
+    }
+    return resp.json();
+  }
+
+  function updateStats(iocs) {
+    const totals = { ip: 0, domain: 0, url: 0, hash: 0 };
+    const sources = new Set();
+    let newest = null;
+
+    for (const row of iocs) {
+      const t = row.type;
+      if (totals[t] !== undefined) totals[t]++;
+
+      if (row.source) sources.add(row.source);
+      if (row.first_seen) {
+        const d = new Date(row.first_seen);
+        if (!isNaN(d)) {
+          if (!newest || d > newest) newest = d;
+        }
+      }
+    }
+
+    const totalIOCs = iocs.length;
+    document.getElementById("statTotal").textContent = totalIOCs.toLocaleString();
+    document.getElementById("statIP").textContent = totals.ip.toLocaleString();
+    document.getElementById("statDomain").textContent = totals.domain.toLocaleString();
+    document.getElementById("statURL").textContent = totals.url.toLocaleString();
+    document.getElementById("statHash").textContent = totals.hash.toLocaleString();
+    document.getElementById("statSources").textContent = sources.size
+      ? `from ${sources.size} source${sources.size > 1 ? "s" : ""}`
+      : "from feeds";
+
+    document.getElementById("tableCount").textContent =
+      totalIOCs ? `${totalIOCs.toLocaleString()} indicators loaded` : "No indicators loaded";
+
+    const lastLine = document.getElementById("lastUpdatedLine").querySelector(".value");
+    if (newest) {
+      lastLine.textContent = newest.toISOString().replace("T", " ").replace("Z", "Z");
+    } else {
+      lastLine.textContent = "unknown (no timestamps)";
+    }
+  }
+
+  function populateTable(iocs) {
+    const tbody = document.querySelector('#iocTable tbody');
+    tbody.innerHTML = '';
+
+    for (const row of iocs) {
+      const tr = document.createElement('tr');
+      const typeClass = row.type ? row.type.toLowerCase() : "";
+
+      tr.innerHTML = `
+        <td>${row.id}</td>
+        <td><span class="type-chip ${typeClass}">${row.type || ""}</span></td>
+        <td class="value-cell" title="${row.value}">${row.value}</td>
+        <td>${row.source}</td>
+        <td>${row.first_seen}</td>
+      `;
+      tbody.appendChild(tr);
+    }
+  }
+
+  function attachSearch() {
+    const searchBox = document.getElementById('searchBox');
+    const tbody = document.querySelector('#iocTable tbody');
+
+    searchBox.addEventListener('input', () => {
+      const filter = searchBox.value.toLowerCase();
+      const rows = tbody.querySelectorAll('tr');
+
+      rows.forEach(row => {
+        const text = row.innerText.toLowerCase();
+        row.style.display = text.includes(filter) ? '' : 'none';
+      });
+    });
+  }
+
+  async function renderChart() {
+    try {
+      const data = await fetchJSON('data/ioc_counts.json');
+      const labels = data.labels || [];
+      const types = data.types || [];
+      const series = data.series || {};
+
+      const datasets = types.map((t, idx) => ({
+        label: t.toUpperCase(),
+        data: series[t] || [],
+        tension: 0.3,
+        borderWidth: 2,
+        fill: false
+      }));
+
+      const ctx = document.getElementById('iocChart').getContext('2d');
+      new Chart(ctx, {
+        type: 'line',
+        data: { labels, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { labels: { color: '#e5e7eb', font: { size: 11 } } },
+            title: {
+              display: true,
+              text: 'IOC count per day (last 7 days)',
+              color: '#e5e7eb',
+              font: { size: 13, weight: '500' }
+            }
+          },
+          scales: {
+            x: {
+              ticks: { color: '#9ca3af', font: { size: 10 } },
+              grid: { display: false }
+            },
+            y: {
+              ticks: { color: '#9ca3af', font: { size: 10 } },
+              grid: { color: 'rgba(31,41,55,0.7)' }
+            }
+          }
+        }
+      });
+    } catch (e) {
+      console.error(e);
+    }
+  }
+
+  async function init() {
+    try {
+      const iocs = await fetchJSON('data/latest_iocs.json');
+      updateStats(iocs);
+      populateTable(iocs);
+      attachSearch();
+      renderChart();
+    } catch (e) {
+      console.error('Failed to initialise dashboard:', e);
+      document.getElementById("tableCount").textContent = "Failed to load data";
+    }
+  }
+
+  init();
 </script>
-
 </body>
 </html>
