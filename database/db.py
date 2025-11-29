@@ -52,7 +52,7 @@ def store_ioc(ioc_type: str, value: str, source: str,
             print(f"[DB] Error storing IOC {value}: {e}")
 
 
-def get_recent_iocs(limit: int = 50):
+def get_recent_iocs(limit: int = 100):
     with get_conn() as conn:
         cur = conn.cursor()
         cur.execute("""
