@@ -343,6 +343,97 @@
     footer a:hover {
       text-decoration: underline;
     }
+
+    /* Detail panel */
+    .detail-card {
+      margin-top: 14px;
+    }
+
+    .detail-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .detail-title {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.16em;
+      color: var(--text-soft);
+    }
+
+    .detail-value {
+      font-size: 14px;
+      font-weight: 500;
+      margin: 4px 0 2px;
+      word-break: break-all;
+    }
+
+    .detail-row {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px 16px;
+      margin-top: 6px;
+      font-size: 12px;
+    }
+
+    @media (max-width: 700px) {
+      .detail-row {
+        grid-template-columns: minmax(0, 1fr);
+      }
+    }
+
+    .kv-label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.14em;
+      color: var(--text-soft);
+      margin-bottom: 2px;
+    }
+
+    .kv-value {
+      font-size: 12px;
+      color: var(--text);
+      word-break: break-all;
+    }
+
+    .json-block {
+      margin-top: 8px;
+      padding: 8px;
+      border-radius: 10px;
+      background: rgba(15, 23, 42, 0.95);
+      border: 1px solid rgba(31, 41, 55, 0.9);
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 11px;
+      max-height: 220px;
+      overflow: auto;
+      white-space: pre-wrap;
+      color: #e5e7eb;
+    }
+
+    .detail-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      font-size: 10px;
+      background: rgba(15, 23, 42, 0.95);
+      border: 1px solid rgba(148, 163, 184, 0.4);
+      color: var(--text-soft);
+    }
+
+    .detail-badge-dot {
+      width: 6px;
+      height: 6px;
+      border-radius: 999px;
+      background: var(--accent);
+    }
+
+    .hidden {
+      display: none;
+    }
   </style>
 </head>
 <body>
@@ -377,7 +468,6 @@
       </div>
 
       <div class="stats-grid" id="statsGrid">
-        <!-- Stats populated by JS -->
         <div class="stat-card">
           <div class="stat-label">Total IOCs</div>
           <div class="stat-value" id="statTotal">–</div>
@@ -445,6 +535,35 @@
     </section>
   </div>
 
+  <!-- IOC Detail Panel -->
+  <section id="iocDetail" class="card detail-card hidden">
+    <div class="detail-header">
+      <div>
+        <div class="detail-title">Indicator details</div>
+        <div id="detailTypeBadge" class="detail-badge hidden">
+          <span class="detail-badge-dot"></span>
+          <span id="detailTypeText"></span>
+        </div>
+      </div>
+      <div class="card-subtitle" id="detailSourceLine">Source: –</div>
+    </div>
+
+    <div class="detail-value" id="detailValue">Click an IOC row to view details.</div>
+
+    <div class="detail-row">
+      <div>
+        <div class="kv-label">First Seen (UTC)</div>
+        <div class="kv-value" id="detailFirstSeen">–</div>
+      </div>
+      <div>
+        <div class="kv-label">Internal ID</div>
+        <div class="kv-value" id="detailId">–</div>
+      </div>
+    </div>
+
+    <div id="detailEnrichmentBlock" class="json-block hidden"></div>
+  </section>
+
   <footer>
     <div>Built as a personal threat intelligence lab: automated OSINT → enrichment → STIX → dashboard.</div>
     <div>Repository: <a href="https://github.com/TheEddMan/osint-ioc-collector" target="_blank" rel="noopener noreferrer">TheEddMan/osint-ioc-collector</a></div>
@@ -452,6 +571,8 @@
 </div>
 
 <script>
+  let allIocs = [];
+
   async function fetchJSON(path) {
     const resp = await fetch(path, { cache: "no-store" });
     if (!resp.ok) {
@@ -499,11 +620,49 @@
     }
   }
 
+  function showDetail(ioc) {
+    const panel = document.getElementById('iocDetail');
+    const valueEl = document.getElementById('detailValue');
+    const idEl = document.getElementById('detailId');
+    const firstSeenEl = document.getElementById('detailFirstSeen');
+    const sourceLine = document.getElementById('detailSourceLine');
+    const typeBadge = document.getElementById('detailTypeBadge');
+    const typeText = document.getElementById('detailTypeText');
+    const enrichmentBlock = document.getElementById('detailEnrichmentBlock');
+
+    valueEl.textContent = ioc.value || '(no value)';
+    idEl.textContent = ioc.id ?? '–';
+    firstSeenEl.textContent = ioc.first_seen || '–';
+    sourceLine.textContent = `Source: ${ioc.source || 'unknown'}`;
+
+    if (ioc.type) {
+      typeBadge.classList.remove('hidden');
+      typeText.textContent = ioc.type.toUpperCase();
+    } else {
+      typeBadge.classList.add('hidden');
+    }
+
+    if (ioc.enrichment && Object.keys(ioc.enrichment).length) {
+      const pretty = typeof ioc.enrichment === 'string'
+        ? ioc.enrichment
+        : JSON.stringify(ioc.enrichment, null, 2);
+      enrichmentBlock.textContent = pretty;
+      enrichmentBlock.classList.remove('hidden');
+    } else {
+      enrichmentBlock.textContent = '';
+      enrichmentBlock.classList.add('hidden');
+    }
+
+    panel.classList.remove('hidden');
+    panel.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+
   function populateTable(iocs) {
+    allIocs = iocs;
     const tbody = document.querySelector('#iocTable tbody');
     tbody.innerHTML = '';
 
-    for (const row of iocs) {
+    iocs.forEach((row, idx) => {
       const tr = document.createElement('tr');
       const typeClass = row.type ? row.type.toLowerCase() : "";
 
@@ -514,8 +673,14 @@
         <td>${row.source}</td>
         <td>${row.first_seen}</td>
       `;
+      tr.dataset.index = idx;
+      tr.style.cursor = 'pointer';
+      tr.addEventListener('click', () => {
+        showDetail(row);
+      });
+
       tbody.appendChild(tr);
-    }
+    });
   }
 
   function attachSearch() {
@@ -540,7 +705,7 @@
       const types = data.types || [];
       const series = data.series || {};
 
-      const datasets = types.map((t, idx) => ({
+      const datasets = types.map((t) => ({
         label: t.toUpperCase(),
         data: series[t] || [],
         tension: 0.3,
