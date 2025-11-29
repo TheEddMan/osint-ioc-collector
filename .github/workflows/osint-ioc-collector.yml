@@ -1,11 +1,12 @@
 name: Run OSINT IOC Collector
 
 on:
-  # run every hour at minute 0 (01:00, 02:00, 03:00, ...)
   schedule:
-    - cron: "0 * * * *"
-  # allow manual runs from the Actions tab
+    - cron: "0 * * * *"   # every hour
   workflow_dispatch:
+
+permissions:
+  contents: write   # allow this workflow to push changes
 
 jobs:
   collect:
@@ -31,3 +32,16 @@ jobs:
         run: |
           source venv/bin/activate
           python run_all.py
+
+      - name: Commit updated JSON dashboard data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git status
+          if [ -n "$(git status --porcelain docs/data)" ]; then
+            git add docs/data
+            git commit -m "Update IOC JSON data [skip ci]"
+            git push
+          else
+            echo "No changes in docs/data to commit."
+          fi
