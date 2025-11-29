@@ -1,0 +1,118 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>OSINT IOC Collector Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Simple styling -->
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; }
+    h1 { margin-bottom: 5px; }
+    .subtitle { color: #555; font-size: 14px; margin-bottom: 15px; }
+    #searchBox { padding: 6px; width: 260px; margin-bottom: 10px; }
+    table { border-collapse: collapse; width: 100%; margin-top: 10px; }
+    th, td { border: 1px solid #ddd; padding: 6px; font-size: 13px; }
+    th { background-color: #f0f0f0; }
+    #chartContainer { width: 100%; max-width: 900px; margin-top: 20px; }
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>OSINT IOC Collector</h1>
+  <div class="subtitle">
+    Live OSINT indicators collected from public threat feeds.<br>
+    Data updates automatically when the GitHub Actions workflow runs.
+  </div>
+
+  <div id="chartContainer">
+    <canvas id="iocChart"></canvas>
+  </div>
+
+  <input id="searchBox" type="text" placeholder="Search value or source...">
+
+  <table id="iocTable">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Type</th>
+        <th>Value</th>
+        <th>Source</th>
+        <th>First Seen</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+<script>
+// --- load latest IOCs and populate table ---
+async function loadIOCs() {
+  const resp = await fetch('data/latest_iocs.json', {cache: "no-store"});
+  const data = await resp.json();
+
+  const tbody = document.querySelector('#iocTable tbody');
+  tbody.innerHTML = '';
+
+  for (const row of data) {
+    const tr = document.createElement('tr');
+    tr.innerHTML = `
+      <td>${row.id}</td>
+      <td>${row.type}</td>
+      <td>${row.value}</td>
+      <td>${row.source}</td>
+      <td>${row.first_seen}</td>
+    `;
+    tbody.appendChild(tr);
+  }
+}
+
+// --- search filter ---
+document.addEventListener('DOMContentLoaded', () => {
+  const searchBox = document.getElementById('searchBox');
+  searchBox.addEventListener('keyup', () => {
+    const filter = searchBox.value.toLowerCase();
+    const rows = document.querySelectorAll('#iocTable tbody tr');
+    rows.forEach(r => {
+      const text = r.innerText.toLowerCase();
+      r.style.display = text.includes(filter) ? '' : 'none';
+    });
+  });
+});
+
+// --- load counts & render chart ---
+async function loadChart() {
+  const resp = await fetch('data/ioc_counts.json', {cache: "no-store"});
+  const data = await resp.json();
+
+  const labels = data.labels;
+  const types = data.types;
+  const datasets = types.map((t) => ({
+    label: t,
+    data: data.series[t],
+    fill: false,
+    tension: 0.1
+  }));
+
+  const ctx = document.getElementById('iocChart').getContext('2d');
+  new Chart(ctx, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      plugins: {
+        legend: { position: 'bottom' },
+        title: { display: true, text: 'IOC count per day (last 7 days)' }
+      }
+    }
+  });
+}
+
+async function init() {
+  await loadIOCs();
+  await loadChart();
+}
+
+init();
+</script>
+
+</body>
+</html>
