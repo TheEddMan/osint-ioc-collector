@@ -7,7 +7,7 @@ from database.db import get_recent_iocs
 
 
 def export_latest_iocs_json(
-    limit: int = 300,
+    limit: int = 500,
     path: str = "docs/data/latest_iocs.json",
 ) -> None:
     """
