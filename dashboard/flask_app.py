@@ -124,7 +124,7 @@ fetch('/api/ioc_counts')
 
 @app.route("/")
 def index():
-    rows = get_recent_iocs(limit=300)
+    rows = get_recent_iocs(limit=500)
     return render_template_string(TEMPLATE, rows=rows)
 
 
