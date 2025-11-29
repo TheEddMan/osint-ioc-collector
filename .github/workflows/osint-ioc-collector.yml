@@ -1,0 +1,33 @@
+name: Run OSINT IOC Collector
+
+on:
+  # run every hour at minute 0 (01:00, 02:00, 03:00, ...)
+  schedule:
+    - cron: "0 * * * *"
+  # allow manual runs from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m venv venv
+          source venv/bin/activate
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run OSINT collector
+        run: |
+          source venv/bin/activate
+          python run_all.py
