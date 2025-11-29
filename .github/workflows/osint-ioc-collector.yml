@@ -11,6 +11,8 @@ permissions:
 jobs:
   collect:
     runs-on: ubuntu-latest
+    env:
+      THREATFOX_AUTH_KEY: ${{ secrets.THREATFOX_AUTH_KEY }}
 
     steps:
       - name: Check out repo
