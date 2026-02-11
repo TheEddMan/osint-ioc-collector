@@ -1,622 +1,98 @@
 [
   {
-    "id": 3123,
+    "id": 3602,
     "type": "url",
-    "value": "https://chuckyr.cyou/api",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://62hwtrfv.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3124,
-    "type": "domain",
-    "value": "nhasmi67-47935.portmap.host",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3125,
-    "type": "domain",
-    "value": "nextlevelxxblessings2026.duckdns.org",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3126,
+    "id": 3603,
     "type": "url",
-    "value": "http://endlessgrumbler.cc:8080/updater?for=0AA6B9F07A5B27B2069C137C69EC91EB",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 3127,
-    "type": "domain",
-    "value": "webmail.la-casa.ro",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3128,
-    "type": "url",
-    "value": "https://007consultoriafinanceira.club/tas/receptor.php",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 3129,
-    "type": "url",
-    "value": "https://jorney.top/signin/endpoint-effect.js",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 3130,
-    "type": "domain",
-    "value": "jorney.top",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3131,
-    "type": "url",
-    "value": "https://jorney.top/signin/settings-sandbox.php",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 3132,
-    "type": "url",
-    "value": "https://jorney.top/signin/metrics-layout.js",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 3133,
-    "type": "domain",
-    "value": "booking.fijivacations.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3134,
-    "type": "domain",
-    "value": "x1eginabraz1985bk.duckdns.org",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3135,
-    "type": "domain",
-    "value": "infra.permianbuildersllc.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3136,
-    "type": "domain",
-    "value": "rmtino009.accesscam.org",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3137,
-    "type": "domain",
-    "value": "x1esalwanazeeze.ddns.net",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3138,
-    "type": "domain",
-    "value": "gateway001kir.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3139,
-    "type": "domain",
-    "value": "mymexico.social",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3140,
-    "type": "domain",
-    "value": "api-gateway-prod.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3141,
-    "type": "domain",
-    "value": "mbml-writer-info.info",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3142,
-    "type": "domain",
-    "value": "mmdis-worls.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3143,
-    "type": "domain",
-    "value": "sslgateway001.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3144,
-    "type": "domain",
-    "value": "microsoft-tools.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3145,
-    "type": "domain",
-    "value": "sistemablackatz.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3146,
-    "type": "domain",
-    "value": "jariosos.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3147,
-    "type": "domain",
-    "value": "luckywheel.digital",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3148,
-    "type": "domain",
-    "value": "ripple.dailyoffers.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3149,
-    "type": "domain",
-    "value": "whomever-initially.gl.at.ply.gg",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3150,
-    "type": "domain",
-    "value": "lumen.dailyoffers.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3151,
-    "type": "domain",
-    "value": "ember.quicksavings.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3152,
-    "type": "domain",
-    "value": "orbit.quicksavings.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3153,
-    "type": "domain",
-    "value": "semadaneepo.beget.app",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3154,
-    "type": "domain",
-    "value": "sparkle.smartshopping.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3155,
-    "type": "domain",
-    "value": "mortician.semifinal-matching.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3156,
-    "type": "domain",
-    "value": "a13.auaacc2.vip",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3157,
-    "type": "domain",
-    "value": "a13.auaadd1.vip",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3158,
-    "type": "domain",
-    "value": "7i84od4b.elastic-refurbish.digital",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3159,
-    "type": "domain",
-    "value": "oxidize.semifinal-matching.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3160,
-    "type": "domain",
-    "value": "hatjrybr.elastic-refurbish.digital",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3161,
-    "type": "domain",
-    "value": "macdropbeam.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3162,
-    "type": "domain",
-    "value": "portbuddy.dev",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3163,
-    "type": "domain",
-    "value": "umbrella.semifinal-matching.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3164,
-    "type": "domain",
-    "value": "nmp.semifinal-matching.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3165,
-    "type": "domain",
-    "value": "cdn.semifinal-matching.coupons",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3166,
-    "type": "domain",
-    "value": "ENVIOMSHND.dynuddns.net",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3167,
-    "type": "domain",
-    "value": "xwlmi.duckdns.org",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3168,
-    "type": "domain",
-    "value": "raxelpak.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3169,
-    "type": "domain",
-    "value": "autosalesknoxville.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3170,
-    "type": "domain",
-    "value": "a2abotnet.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3171,
-    "type": "domain",
-    "value": "gc-prtnrs.top",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3172,
-    "type": "domain",
-    "value": "gcc-prtnrs.top",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3173,
-    "type": "domain",
-    "value": "xuanwcai.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3174,
-    "type": "domain",
-    "value": "mulpdate.icu",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3175,
-    "type": "domain",
-    "value": "paradigmsereinthrenody.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3176,
-    "type": "domain",
-    "value": "johnstoneferrozavod.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3177,
-    "type": "url",
-    "value": "http://endlessgrumbler.cc:8080/updater?for=5120D3FEDD36EAC912DB54C863CE59BB",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 3178,
-    "type": "domain",
-    "value": "zkyhgfvluyvjh.im",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3179,
-    "type": "domain",
-    "value": "socolivez15.live",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3180,
-    "type": "domain",
-    "value": "socolivez14.live",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3181,
-    "type": "domain",
-    "value": "socoliveyy.cc",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3182,
-    "type": "domain",
-    "value": "prodbackserv.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3183,
-    "type": "domain",
-    "value": "fixyourallergywithus.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3184,
-    "type": "domain",
-    "value": "alphaplay.in.net",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3185,
-    "type": "domain",
-    "value": "98898989231ghg.duckdns.org",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3186,
-    "type": "domain",
-    "value": "ghre553454323321.duckdns.org",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3187,
-    "type": "domain",
-    "value": "mrmcs.supportmanageronline.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3188,
-    "type": "domain",
-    "value": "turkialenzi-42249.portmap.host",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3189,
-    "type": "domain",
-    "value": "ndbf79ap3.localto.net",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3190,
-    "type": "domain",
-    "value": "events.youranokacounty.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3191,
-    "type": "domain",
-    "value": "assistant.praiselimollc.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3192,
-    "type": "domain",
-    "value": "hrc.emiraride.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3193,
-    "type": "domain",
-    "value": "hrc.megaexdistribuidora.com.br",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3194,
-    "type": "url",
-    "value": "https://hrc.emiraride.com/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://62hew7h.lol/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3195,
+    "id": 3604,
     "type": "url",
-    "value": "https://hrc.megaexdistribuidora.com.br/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://5qtfwtr2.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3605,
+    "type": "url",
+    "value": "https://52gw6tw.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3606,
+    "type": "url",
+    "value": "https://4qfw32r.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3607,
+    "type": "url",
+    "value": "https://42d3drw.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3608,
+    "type": "url",
+    "value": "https://39eye32.lol/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3609,
+    "type": "url",
+    "value": "https://378eygy.lol/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3610,
+    "type": "url",
+    "value": "https://zeyatatay.z27.web.core.windows.net",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -625,82 +101,305 @@
     }
   },
   {
-    "id": 3196,
-    "type": "domain",
-    "value": "demoslotnolimitcity.jp.net",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3197,
+    "id": 3611,
     "type": "url",
-    "value": "https://retiroreturn.com/signin/settings-sandbox.php",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://32dwee.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3198,
-    "type": "domain",
-    "value": "retiroreturn.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3199,
+    "id": 3612,
     "type": "url",
-    "value": "https://retiroreturn.com/signin/metrics-layout.js",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://2ygwyg.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3200,
+    "id": 3613,
     "type": "url",
-    "value": "http://91.193.19.10/handle",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://2qdfq42.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3201,
+    "id": 3614,
     "type": "url",
-    "value": "https://whoforgot.com/handle",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://genietourismservices.com/bash/baaufix/aruba/web/authen.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3202,
+    "id": 3615,
     "type": "url",
-    "value": "https://91.193.19.10/func",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://wplayb.top/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3616,
+    "type": "url",
+    "value": "https://shorturl.at/prx8H",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3203,
+    "id": 3617,
     "type": "url",
-    "value": "https://6yjgi2ue4qhb1zn1i65zpwdyii7k50vr0mprzvaz.t3.storage.dev/Verify-to-Continue-ID-vdpo-26020910.html",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://2t6t2gr4.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3618,
+    "type": "url",
+    "value": "https://flowdigital-brown.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3619,
+    "type": "url",
+    "value": "https://28k3t3h.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3620,
+    "type": "url",
+    "value": "https://28huwy.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3621,
+    "type": "url",
+    "value": "https://aws-practical-frontend.s3.dualstack.ap-south-1.amazonaws.com/policy.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3622,
+    "type": "url",
+    "value": "https://joystay.in/wp-includes/js/mbh/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3623,
+    "type": "url",
+    "value": "https://27wtrwe.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3624,
+    "type": "url",
+    "value": "https://joystay.in/wp-includes/js/mbh/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3625,
+    "type": "url",
+    "value": "https://25wgfe.lol/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3626,
+    "type": "url",
+    "value": "https://1gv2ytfg.lol/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3627,
+    "type": "url",
+    "value": "https://engconnect.ghost.io/exodus/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3628,
+    "type": "url",
+    "value": "https://event-started.ghost.io/exodus-web3/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3629,
+    "type": "url",
+    "value": "https://1ft2t3.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3630,
+    "type": "url",
+    "value": "https://started-auto.ghost.io/web3-en",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3631,
+    "type": "url",
+    "value": "https://eng-connect.ghost.io/exodus-en-web",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3632,
+    "type": "url",
+    "value": "https://homestarted.ghost.io/exodus",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3633,
+    "type": "url",
+    "value": "https://easy-exods-trade.created.app",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3634,
+    "type": "url",
+    "value": "https://exod-us-web3.created.app",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3635,
+    "type": "url",
+    "value": "https://exodus-io-web3.pages.dev",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3636,
+    "type": "url",
+    "value": "https://page-exodus-en.pages.dev",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3637,
+    "type": "url",
+    "value": "https://exodus.mandatory-update-compliance.com/complete-update",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 2,
       "local_reasons": [
@@ -710,100 +409,44 @@
     }
   },
   {
-    "id": 3204,
+    "id": 3638,
     "type": "url",
-    "value": "https://benecian.com/4a7s.js",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://0qk7wh.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3205,
-    "type": "domain",
-    "value": "benecian.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3206,
+    "id": 3639,
     "type": "url",
-    "value": "https://benecian.com/js.php",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://0o1k6wg.lat/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3207,
-    "type": "domain",
-    "value": "fjolml5b.dursamurai.digital",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3208,
-    "type": "domain",
-    "value": "z1asu4ve.dursamurai.digital",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3209,
+    "id": 3640,
     "type": "url",
-    "value": "http://91.92.243.29/bnoda",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://02kjwt2.lol/mg1q21yw/zvXdGt/pGy1tw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3210,
-    "type": "domain",
-    "value": "arkham-coin.in.net",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3211,
-    "type": "domain",
-    "value": "backstage.cn.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3212,
-    "type": "domain",
-    "value": "spk.emiraride.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3213,
-    "type": "domain",
-    "value": "spk.megaexdistribuidora.com.br",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3214,
+    "id": 3641,
     "type": "url",
-    "value": "https://spk.megaexdistribuidora.com.br/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://nextjs-boilerplate-three-xi-19.vercel.app/gn?data=c3VwZXJnZWVrLmNvbQ==",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -812,38 +455,44 @@
     }
   },
   {
-    "id": 3215,
+    "id": 3642,
     "type": "url",
-    "value": "https://spk.emiraride.com/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://programm-jour.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 3216,
-    "type": "domain",
-    "value": "oly.emiraride.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3217,
-    "type": "domain",
-    "value": "oly.megaexdistribuidora.com.br",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3218,
+    "id": 3643,
     "type": "url",
-    "value": "https://oly.megaexdistribuidora.com.br/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://programm-jour.pro/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3644,
+    "type": "url",
+    "value": "http://opmfame.weebly.com",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3645,
+    "type": "url",
+    "value": "http://main-bvxea6i-wgxgszysoroki.fr-4.platformsh.site",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -852,1593 +501,24 @@
     }
   },
   {
-    "id": 3219,
+    "id": 3646,
     "type": "url",
-    "value": "https://74.0.48.35/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
+    "value": "https://allegrolokalnie.pl-oferta7107068.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 3220,
-    "type": "url",
-    "value": "https://46.225.107.186/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 3221,
-    "type": "url",
-    "value": "https://46.225.95.6/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 3222,
-    "type": "url",
-    "value": "https://oly.emiraride.com/",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 3223,
-    "type": "domain",
-    "value": "mirai.k4ss.lol",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3224,
-    "type": "domain",
-    "value": "hostjnger.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3225,
-    "type": "domain",
-    "value": "orlandoremodelingcompany.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 3226,
-    "type": "domain",
-    "value": "autosalestallahasseefl.com",
-    "source": "threatfox",
-    "first_seen": "2026-02-11 06:03:10",
-    "enrichment": {}
-  },
-  {
-    "id": 2987,
-    "type": "url",
-    "value": "http://103.252.94.132:8000/sc9.ps1",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2988,
-    "type": "url",
-    "value": "http://103.254.110.182/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2989,
-    "type": "url",
-    "value": "http://103.26.82.163:46855/Mozi.m",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2990,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/AudioCapture.dll",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2991,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/CLIENT32.ini",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2992,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/HTCTL32.DLL",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2993,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/NSM.LIC",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2994,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/NSM.ini",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2995,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/PCICHEK.DLL",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2996,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/PCICL32.DLL",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2997,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/TCCTL32.DLL",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2998,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/client32.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2999,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/client32u.ini",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 3000,
-    "type": "url",
-    "value": "http://103.27.157.14:5506/msvcr100.dll",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 3001,
-    "type": "hash",
-    "value": "001010101010010110101011101010101101010111010101",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3002,
-    "type": "hash",
-    "value": "0011b9cd240249c3aeb520ea1205eaf1",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3003,
-    "type": "hash",
-    "value": "0478b308b8cf46709a73d0eed5afd633",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3004,
-    "type": "hash",
-    "value": "04ecdf46e8db9fce689d93905d759334b475c825",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3005,
-    "type": "hash",
-    "value": "0df54f5358e0da37341d69459e6cb868f9779d64",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3006,
-    "type": "hash",
-    "value": "0f3dde62579dda4df8f41b93cf42a6c3101289aa",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3007,
-    "type": "hash",
-    "value": "1104e072a45648cc8b244de88a4d3a77",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3008,
-    "type": "hash",
-    "value": "13fba6d38a5246708298bffda853443a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3009,
-    "type": "hash",
-    "value": "143a18cdb9a295ced2ee99d0d4724713cacecaf2",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3010,
-    "type": "hash",
-    "value": "1445de8c8aa84761aac5200e0036237d",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3011,
-    "type": "hash",
-    "value": "1594300ef576e489183fb20c411b7d28c1342209b9f7a97285c1f8df7ac1ce2c",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3012,
-    "type": "hash",
-    "value": "15d4031688cbb71def72a06cf15d7fa1",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3013,
-    "type": "hash",
-    "value": "17046f29e45193c4a6a20b87eb1cb0a08ef3805eb69deeca5e77e6346a089239",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3014,
-    "type": "hash",
-    "value": "176675e0af439bdd574db98df179bd18e3bf499067",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3015,
-    "type": "hash",
-    "value": "18ca5ea3b0f44c7d844d4d5f966d4555",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3016,
-    "type": "hash",
-    "value": "1c6ec94c5b7549d291c218e795ec7d7b",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3017,
-    "type": "hash",
-    "value": "1cc7ca24ebb638339b69a7ea32f3cf3c",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3018,
-    "type": "hash",
-    "value": "1ec812ea405b44f9976acd137f20fe96",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3019,
-    "type": "hash",
-    "value": "238415a963aab57f18fd2c2ef60995d7c0b39fe0",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3020,
-    "type": "hash",
-    "value": "253a2792b258475090b37e696b124d1f",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3021,
-    "type": "hash",
-    "value": "2809b8e8340e493a91d61dc14e478db6",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3022,
-    "type": "hash",
-    "value": "292eacff968b3e2ee3cab812b47a7632d667268039ae27fe1234a714304666ea",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3023,
-    "type": "hash",
-    "value": "296b891ef5d15bc30620bcccb0660d36d3d0a0f9",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3024,
-    "type": "hash",
-    "value": "2aefa981286729911384cef6e9813c0c",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3025,
-    "type": "hash",
-    "value": "2bf88754a39b406e92a720f7714c9c13",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3026,
-    "type": "hash",
-    "value": "2d4e9160a594401895eeff9104d72185",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3027,
-    "type": "hash",
-    "value": "2e771fb306028fabfc8e098427181f78",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3028,
-    "type": "hash",
-    "value": "30ea07d56404ec5d97060cb9719acb756b2ed1f1",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3029,
-    "type": "hash",
-    "value": "32561edca48a460384d1dbaa0cf1605b",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3030,
-    "type": "hash",
-    "value": "36b18f37163aaa04654bd21e98d1b842",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3031,
-    "type": "hash",
-    "value": "37f3a615586d47f4996e932bf6df7670",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3032,
-    "type": "hash",
-    "value": "37f3db6b29d64f1045fb60967d6297f525ddf443",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3033,
-    "type": "hash",
-    "value": "380573497f9c426fb28bfd79684d2899",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3034,
-    "type": "hash",
-    "value": "3bc1de741f8149f49bdbafa703067f24",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3035,
-    "type": "hash",
-    "value": "3d288ec7530a4c18b2a60ff5ff4d7fc9",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3036,
-    "type": "hash",
-    "value": "40f0bc7019cc4cc4af33b722c6d5f182",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3037,
-    "type": "hash",
-    "value": "41f4f8f16b76af39e1bc3f8024b66010dd2617c7",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3038,
-    "type": "hash",
-    "value": "42429a19c72b875b93608f8cb0cab933",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3039,
-    "type": "hash",
-    "value": "46cad0e0ca3b2d6d9d3ce691ca2887b18abc80acf0e81799fbb290cce104c8eb",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3040,
-    "type": "hash",
-    "value": "4767135e25ca0173d0ec84e4fef44bc34c3d9f31",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3041,
-    "type": "hash",
-    "value": "4c3e660ab51c78f49b9c10016e852287",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3042,
-    "type": "hash",
-    "value": "4de7b5122aad5c9ddd1703dc20f711b9e72c9e77",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3043,
-    "type": "hash",
-    "value": "522f8dbab717f669a06afa9122107971",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3044,
-    "type": "hash",
-    "value": "55f6249d2807a0ddd19f66450faa7388fd7715cf",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3045,
-    "type": "hash",
-    "value": "596a96cc7bf9108cd896f33c44aedc8a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3046,
-    "type": "hash",
-    "value": "5c4e6e9643905a231b5af7f566fcff1c",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3047,
-    "type": "hash",
-    "value": "5f6ace5069484935961c4294ac634cc6",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3048,
-    "type": "hash",
-    "value": "60af1f798cc4708a2872a66cebab351e529e43f8",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3049,
-    "type": "hash",
-    "value": "62429b195c6842bc818f8fb4d1eec762",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3050,
-    "type": "hash",
-    "value": "642636642aa5e29ae8a984938f32bcfd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3051,
-    "type": "hash",
-    "value": "66bb777ecf2257ab4ffa52e86386a383",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3052,
-    "type": "hash",
-    "value": "66bcf33bad15036f44df9c2ca7808a5de38435a5",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3053,
-    "type": "hash",
-    "value": "6753a65f543afe81079459a8439ec1e0c0a660b4",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3054,
-    "type": "hash",
-    "value": "6bf6fb9def8a33f5a58067f1e72ea62e",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3055,
-    "type": "hash",
-    "value": "6eaa4f215e22159c338ac4a2ff63f745291400ab",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3056,
-    "type": "hash",
-    "value": "736395613a8761e60c325d209cbc79bc8a8a7ee0",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3057,
-    "type": "hash",
-    "value": "74506ace261846d4bfc80d45a1f06b40",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3058,
-    "type": "hash",
-    "value": "76e6f0a8722c61f7ab6c5a5146858e7ba3a790dbf85272bad9e954abf4c75502",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3059,
-    "type": "hash",
-    "value": "774d0427cd607b1c09131cc277a68c9edd7cf01499d356bcb1ef4a08e6fc322a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3060,
-    "type": "hash",
-    "value": "79be3ddd17a0453a9370a50ed23ed93e",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3061,
-    "type": "hash",
-    "value": "7c09f788d97c44cfeff0507b21db77d9",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3062,
-    "type": "hash",
-    "value": "7c721ad05518e3db06f2a84b60c7a6dc",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3063,
-    "type": "hash",
-    "value": "7d14c6ce9da34479db925b3659d6905a4dd3515bb02fe525cb767d6e20778f01",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3064,
-    "type": "hash",
-    "value": "8244226f50044b6aa27247a4f4218d8f",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3065,
-    "type": "hash",
-    "value": "86da01ef5dcc48a5835da89640b8232a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3066,
-    "type": "hash",
-    "value": "896d806a9b4569c9c3a275f200ebe7d2ecec5702",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3067,
-    "type": "hash",
-    "value": "8bf10830d4fa42d3a538fa7b302d55b3",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3068,
-    "type": "hash",
-    "value": "8cfcde8a9c2333c68af5ef4336696e546b2c1e2126c3e72fe6de27b83b0fc2e3",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3069,
-    "type": "hash",
-    "value": "8d10a82d3c39eec468fe168ed89d52af29ea3744",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3070,
-    "type": "hash",
-    "value": "8f57965f8599440e97ac52dbcca4fc58",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3071,
-    "type": "hash",
-    "value": "9330e540400efd6270ac8e2074cc2196eaf532125dcfeb8fa4316dc95caac486",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3072,
-    "type": "hash",
-    "value": "967f7d6ebbc6448bab0bf0f079136287",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3073,
-    "type": "hash",
-    "value": "985683bd660c0c47c6be513a2d1f0a554d52d241714bb17fb18ab0d0f8cc2dc6",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3074,
-    "type": "hash",
-    "value": "9ac9c7f7d7df3a3009edf3128f9709fc",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3075,
-    "type": "hash",
-    "value": "9d9a3d9ce5ba4eb03b7738f99458773e3b4ce7de",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3076,
-    "type": "hash",
-    "value": "a0ee9b55473a4bfcb6868499b2c995b9",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3077,
-    "type": "hash",
-    "value": "a16747833d476327ca8351b7e1f9a70a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3078,
-    "type": "hash",
-    "value": "a2b3f285662747ee9d09bfdacd188e4e",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3079,
-    "type": "hash",
-    "value": "a37b49d188c17b91cce35259c9b0c10c25fc491a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3080,
-    "type": "hash",
-    "value": "a46fb75076ae48219f9de053c24d52a9",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3081,
-    "type": "hash",
-    "value": "a4916b0dfc5588abf04daa866fddc42054a11368",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3082,
-    "type": "hash",
-    "value": "a6a273bfe40a4459a163597680e5effd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3083,
-    "type": "hash",
-    "value": "a754c9073f856dcf16d203da41a9418b8f09dfa8e2e54592009b01bc9610d4df",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3084,
-    "type": "hash",
-    "value": "a7dc57c54a9d9bfd3497b16248f8bf2e",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3085,
-    "type": "hash",
-    "value": "a9bea6e5380cacf787b01466d38457bc",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3086,
-    "type": "hash",
-    "value": "ad9bc13f7f50318a1e7d6f8f95b7f479",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3087,
-    "type": "hash",
-    "value": "aecf57fa0eda531d62e46ee1ddc4cfb6",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3088,
-    "type": "hash",
-    "value": "b1b5299c4725d97349b18b59061647198f7cc59b",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3089,
-    "type": "hash",
-    "value": "b919dc817ea64bb1b9250a9c4d089735",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3090,
-    "type": "hash",
-    "value": "be8f1a4de047a9259ae86480b8e4d5d1a2782efa372d7732913f360246afc1a3",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3091,
-    "type": "hash",
-    "value": "bfc34934a91a4893817098f73415917a",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3092,
-    "type": "hash",
-    "value": "c3ef889672194c9c8a075c86375cfe17",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3093,
-    "type": "hash",
-    "value": "c4284a2a6c1b60247944a03cbaf930c5",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3094,
-    "type": "hash",
-    "value": "c6db044a32915594cdb052fc8b606bfa",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3095,
-    "type": "hash",
-    "value": "c7f6fa33150f29ab2f179f088a0620b001c0c1792e7b84aedd5dd3be976d6c53",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3096,
-    "type": "hash",
-    "value": "cdd0dd27ae6a4aee9841d397e0496374",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3097,
-    "type": "hash",
-    "value": "ce02802067934e0eb072f69bf6427bf6",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3098,
-    "type": "hash",
-    "value": "db0fa4b8db0333367e9bda3ab68b8042",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3099,
-    "type": "hash",
-    "value": "dca82ba88fae8788a48ffb529f9610a0cc209781",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3100,
-    "type": "hash",
-    "value": "dcaa06344e968ec5335beebb423357eaf332e749",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3101,
-    "type": "hash",
-    "value": "ddb2b11682b74738a7507ce1037d6466",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3102,
-    "type": "hash",
-    "value": "dde62ff97535489f9512018c87030f97",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3103,
-    "type": "hash",
-    "value": "de201ae7e2b5462bb418c93efd6fb8a5",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3104,
-    "type": "hash",
-    "value": "df13d803030c4cab8b69722fbd66d7cd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3105,
-    "type": "hash",
-    "value": "dfbae38bd5246cbc897428264bc149f3",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3106,
-    "type": "hash",
-    "value": "e0f31498c93c4562973d8295141e23d0",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3107,
-    "type": "hash",
-    "value": "e267b00d062075d94d86b69b5665ead25823c08dbae164510c8edbc1af50460e",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3108,
-    "type": "hash",
-    "value": "e306adc6127c4521869ba034f1b34502",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3109,
-    "type": "hash",
-    "value": "e34bd4164f4b7c27e7cf667dffd9274d33d6dfbe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3110,
-    "type": "hash",
-    "value": "e572ab4865dd4c4fb55c0aa98c1c90ef",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3111,
-    "type": "hash",
-    "value": "e9fc97ca50bbfa160587730b1dc32b8e418c889c",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3112,
-    "type": "hash",
-    "value": "f02a622c8252f4766d56d5c9267c2e47",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3113,
-    "type": "hash",
-    "value": "f073f62ca9d0849ee8332381b236fc133fb6f6c4",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3114,
-    "type": "hash",
-    "value": "f096dbcbef9efb4ac45d4b7171898fbc1a4d5d38",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3115,
-    "type": "hash",
-    "value": "f25d0234cff288ab8384689685e37b1b4bbaf2ba",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3116,
-    "type": "hash",
-    "value": "f3a5f16c0d0b45eab9e2e6a05a61d733",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3117,
-    "type": "hash",
-    "value": "f3aa41ea3704b453e7d012f9dd1d3d1d",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3118,
-    "type": "hash",
-    "value": "f7b86aa6c1824adfbdbb3c8467988196",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3119,
-    "type": "hash",
-    "value": "f7bac3bf7ef04691bdd2f9aa6557e862",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3120,
-    "type": "hash",
-    "value": "f942473f6d464899bfca96bfe8c1c914",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3121,
-    "type": "hash",
-    "value": "feeddc44327a3d7f5328ebad35ebe132d0e18f92",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 3122,
-    "type": "hash",
-    "value": "ff3ca5168653ec80423d0d6db971a3c6",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:09",
-    "enrichment": {}
-  },
-  {
-    "id": 2064,
-    "type": "url",
-    "value": "http://1.52.9.159:8080/av.lnk",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2065,
-    "type": "url",
-    "value": "http://1.52.9.159:8080/av.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2066,
-    "type": "url",
-    "value": "http://1.52.9.159:8080/info.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2067,
-    "type": "url",
-    "value": "http://1.52.9.159:8080/photo.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2068,
-    "type": "url",
-    "value": "http://1.52.9.159:8080/video.lnk",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2069,
-    "type": "url",
-    "value": "http://1.52.9.159:8080/video.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2070,
-    "type": "url",
-    "value": "http://1.53.171.148/info.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2071,
-    "type": "url",
-    "value": "http://1.53.249.124/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2072,
-    "type": "url",
-    "value": "http://1.53.249.172/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2073,
-    "type": "url",
-    "value": "http://1.54.109.183:8080/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2074,
-    "type": "url",
-    "value": "http://1.55.243.196:28311/.i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2075,
-    "type": "url",
-    "value": "http://1.55.243.196:28311/i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2076,
-    "type": "url",
-    "value": "http://1.55.3.209/Photo.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2077,
-    "type": "url",
-    "value": "http://1.55.3.209/info.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2078,
-    "type": "url",
-    "value": "http://1.55.79.237/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2079,
-    "type": "url",
-    "value": "http://1.58.34.11:44032/bin.sh",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2080,
-    "type": "url",
-    "value": "http://1.58.34.11:44032/i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2081,
-    "type": "url",
-    "value": "http://1.58.50.199:59413/bin.sh",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2082,
-    "type": "url",
-    "value": "http://1.58.50.199:59413/i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2083,
-    "type": "url",
-    "value": "http://1.64.40.207/AV.lnk",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2084,
-    "type": "url",
-    "value": "http://1.64.40.207/AV.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2085,
-    "type": "url",
-    "value": "http://1.64.40.207/Photo.lnk",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2086,
-    "type": "url",
-    "value": "http://1.64.40.207/Photo.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2087,
-    "type": "url",
-    "value": "http://1.64.40.207/Video.lnk",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2088,
-    "type": "url",
-    "value": "http://1.64.40.207/Video.scr",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2089,
-    "type": "url",
-    "value": "http://1.64.40.207/info.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2090,
-    "type": "url",
-    "value": "http://1.92.129.36:1314/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2091,
-    "type": "url",
-    "value": "http://1.94.108.127:8081/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2092,
-    "type": "url",
-    "value": "http://1.94.184.17:8000/1.jsp",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2093,
-    "type": "url",
-    "value": "http://1.94.184.17:8000/poc.xml",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2094,
-    "type": "url",
-    "value": "http://1.94.184.17:8000/zbsm.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2095,
-    "type": "url",
-    "value": "http://1.off3.ru",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 2,
+      "local_score": 1,
       "local_reasons": [
-        "suspicious_tld"
+        "long_hostname"
       ]
     }
   },
   {
-    "id": 2096,
+    "id": 3647,
     "type": "url",
-    "value": "http://101.108.129.18:44987/bin.sh",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2097,
-    "type": "url",
-    "value": "http://101.108.129.18:44987/i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 2098,
-    "type": "url",
-    "value": "http://101.126.11.168/xsh/update.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://amazon.prime-de.com/pages/login.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -2447,275 +527,2886 @@
     }
   },
   {
-    "id": 2099,
+    "id": 3648,
     "type": "url",
-    "value": "http://101.126.11.168/xsh/xsh.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://mondialrelayinfofr.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2100,
+    "id": 3649,
     "type": "url",
-    "value": "http://101.126.11.79/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "http://tdsynnexonlinestf.com",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2101,
+    "id": 3650,
     "type": "url",
-    "value": "http://101.126.25.11/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://tdsynnexonlinestf.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2102,
+    "id": 3651,
     "type": "url",
-    "value": "http://101.126.75.125/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://mondialrelayinfofr.com/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2103,
+    "id": 3652,
     "type": "url",
-    "value": "http://101.128.66.193:23490/.i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://bperpunti.vip/it",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2104,
+    "id": 3653,
     "type": "url",
-    "value": "http://101.168.32.118:85/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://bperpunti.vip/index.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2105,
+    "id": 3654,
     "type": "url",
-    "value": "http://101.168.40.172:85/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://bperbanca.vip/index.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2106,
+    "id": 3655,
     "type": "url",
-    "value": "http://101.168.47.205:85/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://bperbanca.vip/it",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2107,
+    "id": 3656,
     "type": "url",
-    "value": "http://101.168.6.191:85/sshd",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://heitorferrer.com.br/wp-includes/Text/hdgeawj/pwhxdif/uqoxbwa/Arub/info@d3lab.com",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "has_@"
+      ]
+    }
+  },
+  {
+    "id": 3657,
+    "type": "url",
+    "value": "https://ybba.d-agroland.com/pnijow6j.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2108,
+    "id": 3658,
     "type": "url",
-    "value": "http://101.200.220.118:8090/ledshow1.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://bnl-web.app/index.php?id=random",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2109,
+    "id": 3659,
     "type": "url",
-    "value": "http://101.201.180.191:4444/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://daviviendasv.z5.web.core.windows.net/portal/davivienda/davivienda.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3660,
+    "type": "url",
+    "value": "https://vinted.pl-oferta892311.cfd/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3661,
+    "type": "url",
+    "value": "http://freandconsulting.net/sac-cliente/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2110,
+    "id": 3662,
     "type": "url",
-    "value": "http://101.255.92.202:38259/i",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://freandconsulting.net/sac-cliente/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2111,
+    "id": 3663,
     "type": "url",
-    "value": "http://101.32.206.70:8066/download/linux/arm",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://niqccdsdnvud.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2112,
+    "id": 3664,
     "type": "url",
-    "value": "http://101.33.243.139:8888/DebugView%2b%2b.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://relay-modiflivraison.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2113,
+    "id": 3665,
     "type": "url",
-    "value": "http://101.33.243.139:8888/WxWorkApis.dll",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://relay-modiflivraison.com/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2114,
+    "id": 3666,
     "type": "url",
-    "value": "http://101.33.243.139:8888/WxWorkMultiOpen.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://vinted.pl-oferta892311.cfd",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3667,
+    "type": "url",
+    "value": "https://teeeearana.z14.web.core.windows.net/?phone-74-32-62-93",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3668,
+    "type": "url",
+    "value": "http://allegrolokalnie.pl-6522.icu/oferta/przyczepa-dmc-750kg/31309",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3669,
+    "type": "url",
+    "value": "https://bper03.vip/IT",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2115,
+    "id": 3670,
     "type": "url",
-    "value": "http://101.35.56.7/eznoted2b1405e.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://sudo.yacht-inn.eu/v5cqtttf.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2116,
+    "id": 3671,
     "type": "url",
-    "value": "http://101.35.56.7/husk.py",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://predarte.matthewsnider.it.com/rheo/verify/authorize?client_id=4765445b-32c6-49b0-83e6-1d93765276ca&amp;redirect_uri=https%3A%2F%2Fwww.office.com%2Flandingv2&amp;response_type=code%20id_token&amp;scope=openid%20profile%20https%3A%2F%2Fwww.office.com%2Fv2%2FOfficeHome.All&amp;response_mode=form_post&amp;nonce=639063011714266052.MWZiZDM2OTItNWRiMC00OTYwLWJiODAtNjZkNTdmZmQ3NDY3MWYxMGEzODktOGU5ZS00ZmExLWJhNDEtYjgwMTkyZjlhNGIw&amp;ui_locales=en-GB&amp;mkt=en-GB&amp;client-request-id=4f190dc4-7b1f-4515-a818-e65c2647dabb&amp;state=Z3no54BU0GA0FiMgjUdFgcIBMe2QYLDNsLDG5GxTiXNx5FRlpmJZrx6L4B7iaCxrXnneI3P9Pimj5AK1mwZM57vTPypTIsRy-jW0HOb1qMYJ3RYz2G6NdAL698tI2xd1PUYuZnwAcWX3_NFaVQ9uTPpAe_wm1HxiGneiCCxJ_732zKUFrF6WPTgbrjvAubDowIiSuysePzK8SmnowkaPH8ZtKst7Sfwc6Oi-KojbyTgIB-NzG1uQ8ea9L5IrsvRksS9Ff1ogMJWjhgsjCaD3w8zuTRIhrHz1xjsOISOLEDsoBNU4qoVVAWt1-jf_dtSS&amp;x-client-SKU=ID_NET8_0&amp;x-client-ver=8.5.0.0",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "long_hostname",
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3672,
+    "type": "url",
+    "value": "https://optusnet-webmail.replit.app/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3673,
+    "type": "url",
+    "value": "https://cr-bncrficr.top/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3674,
+    "type": "url",
+    "value": "https://bncr-cficr.cfd/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2117,
+    "id": 3675,
     "type": "url",
-    "value": "http://101.35.56.7/husk.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://bncr-cficr.top/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3676,
+    "type": "url",
+    "value": "https://bancochile.sitiospublicos-bancochile.info/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3677,
+    "type": "url",
+    "value": "https://44d1f233-da8f-4ea8-b483-26d52cc5efec-00-12g3wx0gnm3rv.picard.replit.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3678,
+    "type": "url",
+    "value": "https://a5e741ea-6871-46e4-933e-377169a915de-00-3ue8s7xjpxqim.worf.replit.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3679,
+    "type": "url",
+    "value": "https://baccredomatscr.cfd/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2118,
+    "id": 3680,
     "type": "url",
-    "value": "http://101.35.56.7/i24.bin",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://baccredomatscr.sbs/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2119,
+    "id": 3681,
     "type": "url",
-    "value": "http://101.35.56.7/without_hook.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://baccredomatscr.top/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3682,
+    "type": "url",
+    "value": "https://baccredomatcri.cfd/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2120,
+    "id": 3683,
     "type": "url",
-    "value": "http://101.35.56.7/zddtxxyxb.zip",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://baccredomatcri.top/i/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3684,
+    "type": "url",
+    "value": "https://solicitud--tumundobhd.replit.app/login.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "long_hostname",
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3685,
+    "type": "url",
+    "value": "https://kelishenovin.com/docomo/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2121,
+    "id": 3686,
     "type": "url",
-    "value": "http://101.42.138.122/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://meshmandir.com/LbYFxm8v2a",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2122,
+    "id": 3687,
     "type": "url",
-    "value": "http://101.42.51.184/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://pjo.nah.mybluehost.me/wp-content/mu-plugins/-/us-eng-879834/DB-s/SG/SG/lo674554.php7",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 2123,
+    "id": 3688,
     "type": "url",
-    "value": "http://101.43.226.227/02.08.2022.exe",
-    "source": "urlhaus_text",
-    "first_seen": "2026-02-11 06:03:08",
+    "value": "https://officialenio.zapier.app/io-eng",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3689,
+    "type": "url",
+    "value": "https://drom-sn.surge.sh/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3690,
+    "type": "url",
+    "value": "https://www.classes.jjservices.co.za/wp-content/cache/speedycache/lefix/login.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "long_hostname",
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3691,
+    "type": "url",
+    "value": "https://www.cgdm.org.za/wp-content/themes/twentytwentyfour/parts/lefix/login.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3692,
+    "type": "url",
+    "value": "https://giosuecardussi.sviluppo.host/?LAND=29a3bb924256dccb3d3b2e374d26333476017493ecc2e99cfb8eb20a4cc1fc53",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3693,
+    "type": "url",
+    "value": "https://www.redesigned-octo-rotary-phone-dusky.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3694,
+    "type": "url",
+    "value": "https://vl-93u-manager.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3695,
+    "type": "url",
+    "value": "http://vl-93u-manager.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3696,
+    "type": "url",
+    "value": "http://kite-runner-98.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3697,
+    "type": "url",
+    "value": "https://kite-runner-98.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3698,
+    "type": "url",
+    "value": "https://bi-cloudsync.live/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3699,
+    "type": "url",
+    "value": "http://bi-cloudsync.live",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3700,
+    "type": "url",
+    "value": "https://creneau-horair-relay.com/app/steps/suivi.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3701,
+    "type": "url",
+    "value": "https://104-248-69-158.cprapid.com/next/kasse.php?x88965091gfixmm2uafc",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3702,
+    "type": "url",
+    "value": "https://4-232-172-58.cprapid.com/ch/update.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3703,
+    "type": "url",
+    "value": "https://homeacoop.com/HomePage/smart-id.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3704,
+    "type": "url",
+    "value": "http://naszepogorzale.pl/media/editors/tinymce/c34ea774939e714e821f9bec7b19dc2c",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3705,
+    "type": "url",
+    "value": "https://track.pstmrk.it/3s/authgpt.info/RaIJAQ/SDrDAQ/AQ/f057be61-841c-4033-afae-1737b6b998e9/1/9T0e3ZTaaL",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3706,
+    "type": "url",
+    "value": "https://track.pstmrk.it/3s/authgpt.info/RaIJAQ/kUDDAQ/AQ/8b10d437-69c0-4166-8192-58d6db59de4d/1/7opzGe3oHf",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3707,
+    "type": "url",
+    "value": "https://track.pstmrk.it/3s/authgpt.info/RaIJAQ/aiPDAQ/AQ/e56af0ad-3cb9-4958-b4ea-b3b2a31182eb/1/iyZ1H05k_o",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3708,
+    "type": "url",
+    "value": "https://t.co/2GPE1ZGXjW",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3709,
+    "type": "url",
+    "value": "https://elucubraba.com.tr/gr/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3710,
+    "type": "url",
+    "value": "https://auth-co.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3711,
+    "type": "url",
+    "value": "https://tinyurl.com/ymadbr3y",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3712,
+    "type": "url",
+    "value": "https://theccg-247delivery.netlify.app/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3713,
+    "type": "url",
+    "value": "https://zpr.io/dMezttTuv4v9",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3714,
+    "type": "url",
+    "value": "https://mycs.2ix.ch/mycscc/mycss/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3715,
+    "type": "url",
+    "value": "https://rebrand.ly/ux86de6",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3716,
+    "type": "url",
+    "value": "https://akseotools.com/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3717,
+    "type": "url",
+    "value": "https://tinyurl.com/4cuudhjh",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3718,
+    "type": "url",
+    "value": "https://main-bvxea6i-wgxgszysoroki.fr-4.platformsh.site/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3719,
+    "type": "url",
+    "value": "https://bit.ly/4tpXEMH",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3720,
+    "type": "url",
+    "value": "https://helsana-ch.cafecentralgrup.com/ch/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3721,
+    "type": "url",
+    "value": "https://qrco.de/bgbvgf",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3722,
+    "type": "url",
+    "value": "https://365-0ginxxsmai-898bnslze05ch.webflow.io/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3723,
+    "type": "url",
+    "value": "https://6a6e6817.cwonn.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3724,
+    "type": "url",
+    "value": "https://wetnsfer.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3725,
+    "type": "url",
+    "value": "https://www.cpam-renouvellement.com/app/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3726,
+    "type": "url",
+    "value": "https://trajetsdistrb.pro/app/package/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3727,
+    "type": "url",
+    "value": "https://smm550.bigsaver.ru/insta.php?id=2014392476",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3728,
+    "type": "url",
+    "value": "https://qrco.de/bgbtQi",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3729,
+    "type": "url",
+    "value": "https://q-r.to/bgbrwc",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3730,
+    "type": "url",
+    "value": "https://l.ead.me/bgbtQi",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3731,
+    "type": "url",
+    "value": "http://srv246770.hoster-test.ru/correosclean/correosclean/correosclean/cor2K25/corr/corr.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3732,
+    "type": "url",
+    "value": "http://srv246786.hoster-test.ru/correosclean/correosclean/correosclean/cor2K25/corr/corr.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 3733,
+    "type": "url",
+    "value": "https://igq.bbn.mybluehost.me/es/bbva_2026/login.php",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3734,
+    "type": "url",
+    "value": "http://ordercontractdocumentsonpdffilesazxm.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3735,
+    "type": "url",
+    "value": "https://ordercontractdocumentsonpdffilesazxm.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3736,
+    "type": "url",
+    "value": "https://bancasur.com/hispeed/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3737,
+    "type": "url",
+    "value": "https://bafkreiglz7bfthg72fnmfqm4qn3vsbydka5e7krie4zjunlhl3y3tb63wa.ipfs.dweb.link/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3738,
+    "type": "url",
+    "value": "https://bafkreidkft3p6xsixi2mscaztj2tvozrw7d2tcrrv4dtf7wi3whhurxyye.ipfs.dweb.link/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3739,
+    "type": "url",
+    "value": "https://bafkreidccja3l5z7l6q244cigjzqg75no45p6gl3d5fzl3ddawactsckqu.ipfs.dweb.link/",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3740,
+    "type": "url",
+    "value": "https://bafybeicfi6tyduoyyrqo2bv43taa7u5gwbh26jugzdk6zp6bpptikvcncy.ipfs.dweb.link/tea.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3741,
+    "type": "url",
+    "value": "https://bafybeifzr3hciqpmahh4ymd4nzk4nzkr2hsogtc4iyahfzjiozgk7chjgu.ipfs.dweb.link/cPweb22.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3742,
+    "type": "url",
+    "value": "https://ipfs.io/ipns/k51qzi5uqu5dkjr32p204f52etm98qvgqdkcoyl5vhpur0rzv3zabchzo0hx1y",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3743,
+    "type": "url",
+    "value": "https://pub-09692acdd3924a22ab957d69664cc156.r2.dev/ShareFile.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3744,
+    "type": "url",
+    "value": "https://pub-ccd8008468dd44af9f519fbbd79f2860.r2.dev/offline.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3745,
+    "type": "url",
+    "value": "https://pub-9c95ae9c7f3b440aa71c0cd8608c2472.r2.dev/THAAMEMX7899.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3746,
+    "type": "url",
+    "value": "https://pub-2ce53dae3ce34c5faab9a240fa92a123.r2.dev/att%25login%25screen%20(2).html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "long_hostname",
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 3747,
+    "type": "url",
+    "value": "https://pub-0e35df977bbf46faae006c21d205b99c.r2.dev/THAAMEMX7899.html",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3748,
+    "type": "url",
+    "value": "https://docs.google.com/document/d/1MEtFf_yM7Jh1EiC0PwIkMbnBNV4BcOHBSxrG1PXzKuQ/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3749,
+    "type": "url",
+    "value": "https://docs.google.com/document/d/1MEtFf_yM7Jh1EiC0PwIkMbnBNV4BcOHBSxrG1PXzKuQ",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3750,
+    "type": "url",
+    "value": "https://docs.google.com/presentation/d/e/2PACX-1vR7Lkf6ZmBWon6e7q73VMW6-3zv6dNpGQsu-hXiaG67Sn2dNMJX_fKQYYUlvzG6AicFdOEIYXzxt0gg/pub?start=false&amp;loop=false&amp;delayms=3000",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3751,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1lHBrOqDPwWPPfLMf35D6oRSXoRTq2fQPl5lbwCp1xoo/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3752,
+    "type": "url",
+    "value": "https://cmueller368.wixsite.com/shaw---webmail",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3753,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1JjRiIWOVtOexCF5fkgbVyKFMgXXucc03_xFHx_SW1_0/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3754,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1j2fC9h0hRRrcboefN1532U2uNsoIcEJdzLiYQvx7vGo/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3755,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/11qI379suFZtizQAtPtGUbmbpAxooJHPSkZvg_28I3t8/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3756,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1H_nsrIuReqlKIn8Wvu_vWG6rnCZF1Ho1aGGYvv4cc5I/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3757,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1k98_GRZxw1H7ER2DZBzE9h3Sh_0Gp5VBAigDT1pSU6o/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3758,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1cS3D-04gmZxl2FeJ-z7_StDTCn3L5DgUNCg2RliG-kE/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3759,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1BsekXnmp-3XBFrvfCgLN_lLzVsbtnEUSmfsMDg556-8/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3760,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1XoTBS4tq19B7UetLMuOhGdQJFFjyBCIsYaDOox48NBc/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3761,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1y9gy8XrRby6RegefS3n9-l2Nox_O7V3AhjLSAPYRtJA/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3762,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1uyGHy-A-XcA5xtauE1QcdIRSLLQK2TQpjQ9-O_l9Mlc/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3763,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1dbsJmVUadVZtsi87rIx5sp5CkdKpjOKVVllOAqkqmt8/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3764,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1NP04bl0CLfYPnCFA-UPSrRU8veB-ZT5JsEp8MswKuso/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3765,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1JZA8LQUmun5_TS0ASfoWN76GSo-QA2JUO-f2deUOSXA/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3766,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1I08QUpnzXqy5fK4eG4zGkrJTTf7fu6LWPyAHdRkOBZM/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3767,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1g7He7uVu7NXbChsvjPeU9xFXsjjLjHJ5GGolcZUI8Z4/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3768,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1UPsYIWpgyiuNs-uit-HKbWkIxH_k1QpsPyLvrXLldmI/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3769,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1szpO8aaeVin86sbVnIzIRLH0zOQeSV-N_pYlDqtlrfI/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3770,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1ZteOM05ndaQ6PdyBFfnmgqSRr296rYZgHlUZSYJT-yA/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3771,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1t-v_78lRvtZY42N_VcsQ3kAGl2ETm8RuICkE-zol3kY/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3772,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1c2genmMsQzHMtSdRKFsKhxsGeUdQWI9ymDhpHprlX6w/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3773,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1afpFldSmoRup9sxEkhFQ7z5zjJb9eZDJmKO34C9b32w/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3774,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1NfY2IwVOOEQmZSSKVkjPOv9IcpzQo_r2tGz8FxCgof0/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3775,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1ShxaVTgKDWoHyLXuQv5OH6_ay5mHHCoiZItvqXgaVTE/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3776,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1KYUfW9iSGz0hk_PUf12pqnz4eGXJosQGWNy8s20oyOw/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3777,
+    "type": "url",
+    "value": "https://docs.google.com/drawings/d/1V6b9yiNbDfE9KQuYsH4od_zBOlZIhG_lcKFJSZ_HcPE/edit",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3778,
+    "type": "url",
+    "value": "https://l.wl.co/l?u=https://qr-codes.io/ABt3V2",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3779,
+    "type": "url",
+    "value": "https://qr-codes.io/ABt3V2",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3780,
+    "type": "url",
+    "value": "https://rescureappnewowegkm34gokmaer.genoapre33.biz.id/?vnsjdfir",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 3781,
+    "type": "url",
+    "value": "https://qrco.de/bgbyxo",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3782,
+    "type": "url",
+    "value": "https://qrco.de/bgbymM",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3783,
+    "type": "url",
+    "value": "https://qrco.de/bgbfO1",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3784,
+    "type": "url",
+    "value": "https://qrco.de/bgbz1X",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3785,
+    "type": "url",
+    "value": "https://qrco.de/bgbOMz",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3786,
+    "type": "url",
+    "value": "https://qrco.de/bgbyMh",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3787,
+    "type": "url",
+    "value": "https://qrco.de/bgbxbE",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3788,
+    "type": "url",
+    "value": "https://qrco.de/bgbjS6",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3789,
+    "type": "url",
+    "value": "https://qrco.de/bgbYXl",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3790,
+    "type": "url",
+    "value": "https://qrco.de/bgb9aI",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3791,
+    "type": "url",
+    "value": "https://qrco.de/bgbNSH",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3792,
+    "type": "url",
+    "value": "https://qrco.de/bgbyBO",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3793,
+    "type": "url",
+    "value": "https://qrco.de/bgbwBQ",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3794,
+    "type": "url",
+    "value": "https://qrco.de/bgbGPx",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3795,
+    "type": "url",
+    "value": "https://qrco.de/bgbNHc",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3796,
+    "type": "url",
+    "value": "https://qrco.de/bgbIfE",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3797,
+    "type": "url",
+    "value": "https://qrco.de/bgbz13",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3798,
+    "type": "url",
+    "value": "https://qrco.de/bgbbQi",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3799,
+    "type": "url",
+    "value": "https://qrco.de/bgbpc3",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3800,
+    "type": "url",
+    "value": "https://qrco.de/bgbhGN",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3801,
+    "type": "url",
+    "value": "https://qrco.de/bgbwtT",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3802,
+    "type": "url",
+    "value": "https://qrco.de/bgbxkw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3803,
+    "type": "url",
+    "value": "https://qrco.de/bgbv5o",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3804,
+    "type": "url",
+    "value": "https://qrco.de/bgbKyD",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3805,
+    "type": "url",
+    "value": "https://qrco.de/bgbxon",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3806,
+    "type": "url",
+    "value": "https://qrco.de/bgbnOV",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3807,
+    "type": "url",
+    "value": "https://qrco.de/bgb6yr",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3808,
+    "type": "url",
+    "value": "https://qrco.de/bgbwnM",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3809,
+    "type": "url",
+    "value": "https://qrco.de/bgbwok",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3810,
+    "type": "url",
+    "value": "https://qrco.de/bgbGrB",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3811,
+    "type": "url",
+    "value": "https://qrco.de/bgbwpv",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3812,
+    "type": "url",
+    "value": "https://qrco.de/bgbtLC",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3813,
+    "type": "url",
+    "value": "https://qrco.de/bgbq6O",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3814,
+    "type": "url",
+    "value": "https://qrco.de/bgbuCJ",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3815,
+    "type": "url",
+    "value": "https://qrco.de/bgbv3s",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3816,
+    "type": "url",
+    "value": "https://qrco.de/bgbrcX",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3817,
+    "type": "url",
+    "value": "https://qrco.de/bgbwH9",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3818,
+    "type": "url",
+    "value": "https://qrco.de/bgbduq",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3819,
+    "type": "url",
+    "value": "https://qrco.de/bgbiRy",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3820,
+    "type": "url",
+    "value": "https://qrco.de/bgbe7Y",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3821,
+    "type": "url",
+    "value": "https://qrco.de/bgbvpS",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3822,
+    "type": "url",
+    "value": "https://qrco.de/bgaurG",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3823,
+    "type": "url",
+    "value": "https://qrco.de/bgbvri",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3824,
+    "type": "url",
+    "value": "https://qrco.de/bgbSz7CF542",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3825,
+    "type": "url",
+    "value": "https://qrco.de/bgbvnA",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3826,
+    "type": "url",
+    "value": "https://qrco.de/bgbuq9",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3827,
+    "type": "url",
+    "value": "https://qrco.de/bgboZ7",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3828,
+    "type": "url",
+    "value": "https://qrco.de/bgbuIU",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3829,
+    "type": "url",
+    "value": "https://qrco.de/bgbw11",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3830,
+    "type": "url",
+    "value": "https://qrco.de/bgbvqC",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3831,
+    "type": "url",
+    "value": "https://qrco.de/bgbrG7",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3832,
+    "type": "url",
+    "value": "https://qrco.de/bgbvqD",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3833,
+    "type": "url",
+    "value": "https://qrco.de/bgbvF8",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3834,
+    "type": "url",
+    "value": "https://qrco.de/bgbtzG",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3835,
+    "type": "url",
+    "value": "https://qrco.de/bgbu0r",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3836,
+    "type": "url",
+    "value": "https://qrco.de/bgbvDk",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3837,
+    "type": "url",
+    "value": "https://qrco.de/bgbJt1",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3838,
+    "type": "url",
+    "value": "https://qrco.de/bgbtEn",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3839,
+    "type": "url",
+    "value": "https://qrco.de/bgboQm",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3840,
+    "type": "url",
+    "value": "https://qrco.de/bgbpZW",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3841,
+    "type": "url",
+    "value": "https://qrco.de/bgbuBc",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3842,
+    "type": "url",
+    "value": "https://qrco.de/bgbsDl",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3843,
+    "type": "url",
+    "value": "https://qrco.de/bgbgw6",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3844,
+    "type": "url",
+    "value": "https://qrco.de/bgblrq",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3845,
+    "type": "url",
+    "value": "https://qrco.de/bgbtyW",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3846,
+    "type": "url",
+    "value": "https://qrco.de/bgbuLR",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3847,
+    "type": "url",
+    "value": "https://qrco.de/bgbcgt",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3848,
+    "type": "url",
+    "value": "https://qrco.de/bgbu63",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3849,
+    "type": "url",
+    "value": "https://qrco.de/bgbqFD",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3850,
+    "type": "url",
+    "value": "https://qrco.de/bgbnUA",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3851,
+    "type": "url",
+    "value": "https://qrco.de/bgbjEO",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3852,
+    "type": "url",
+    "value": "https://qrco.de/bgbXK2",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3853,
+    "type": "url",
+    "value": "https://qrco.de/bgbr1t",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3854,
+    "type": "url",
+    "value": "https://qrco.de/bgbpNq",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3855,
+    "type": "url",
+    "value": "https://qrco.de/bgbtP4",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3856,
+    "type": "url",
+    "value": "https://qrco.de/bgbe0c",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3857,
+    "type": "url",
+    "value": "https://qrco.de/bgbpWB",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3858,
+    "type": "url",
+    "value": "https://qrco.de/bgbsav",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3859,
+    "type": "url",
+    "value": "https://qrco.de/bgbhVC",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3860,
+    "type": "url",
+    "value": "https://qrco.de/bgboDj",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3861,
+    "type": "url",
+    "value": "https://qrco.de/bgbbUd",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3862,
+    "type": "url",
+    "value": "https://qrco.de/bgbsHF",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3863,
+    "type": "url",
+    "value": "https://qrco.de/bgboy4",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3864,
+    "type": "url",
+    "value": "https://qrco.de/bgbpPL",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3865,
+    "type": "url",
+    "value": "https://qrco.de/bgb8G5",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3866,
+    "type": "url",
+    "value": "https://qrco.de/bgbaMo",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3867,
+    "type": "url",
+    "value": "https://qrco.de/bgbr3O",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3868,
+    "type": "url",
+    "value": "https://qrco.de/bgbMZx",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3869,
+    "type": "url",
+    "value": "https://q-r.to/bgbz1X",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3870,
+    "type": "url",
+    "value": "https://q-r.to/bgbyMh",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3871,
+    "type": "url",
+    "value": "https://q-r.to/bgbOMz",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3872,
+    "type": "url",
+    "value": "https://q-r.to/bgb9aI",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3873,
+    "type": "url",
+    "value": "https://q-r.to/bgbjS6",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3874,
+    "type": "url",
+    "value": "https://q-r.to/bgbGPx",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3875,
+    "type": "url",
+    "value": "https://q-r.to/bgbyBO",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3876,
+    "type": "url",
+    "value": "https://q-r.to/bgbNSH",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3877,
+    "type": "url",
+    "value": "https://q-r.to/bgbz13",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3878,
+    "type": "url",
+    "value": "https://q-r.to/bgbIfE",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3879,
+    "type": "url",
+    "value": "https://q-r.to/bgbbQi",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3880,
+    "type": "url",
+    "value": "https://q-r.to/bgbhGN",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3881,
+    "type": "url",
+    "value": "https://q-r.to/bgbpc3",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3882,
+    "type": "url",
+    "value": "https://q-r.to/bgbwtT",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3883,
+    "type": "url",
+    "value": "https://q-r.to/bgbfO1",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3884,
+    "type": "url",
+    "value": "https://q-r.to/bgbwnM",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3885,
+    "type": "url",
+    "value": "https://q-r.to/bgbxkw",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3886,
+    "type": "url",
+    "value": "https://q-r.to/bgbwok",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3887,
+    "type": "url",
+    "value": "https://q-r.to/bgbv5o",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3888,
+    "type": "url",
+    "value": "https://q-r.to/bgbxon",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3889,
+    "type": "url",
+    "value": "https://q-r.to/bgbGrB",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3890,
+    "type": "url",
+    "value": "https://q-r.to/bgbKyD",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3891,
+    "type": "url",
+    "value": "https://q-r.to/bgb6yr",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3892,
+    "type": "url",
+    "value": "https://q-r.to/bgbq6O",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3893,
+    "type": "url",
+    "value": "https://q-r.to/bgbwpv",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3894,
+    "type": "url",
+    "value": "https://q-r.to/bgbduq",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3895,
+    "type": "url",
+    "value": "https://q-r.to/bgbwH9",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3896,
+    "type": "url",
+    "value": "https://q-r.to/bgbvpS",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3897,
+    "type": "url",
+    "value": "https://q-r.to/bgbe7Y",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3898,
+    "type": "url",
+    "value": "https://q-r.to/bgbv3s",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3899,
+    "type": "url",
+    "value": "https://q-r.to/bgbuCJ",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3900,
+    "type": "url",
+    "value": "https://q-r.to/bgbiRy",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 3901,
+    "type": "url",
+    "value": "https://q-r.to/bgbvri",
+    "source": "phishtank",
+    "first_seen": "2026-02-11 07:48:32",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
