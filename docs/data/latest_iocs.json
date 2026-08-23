@@ -1,32 +1,2817 @@
 [
   {
-    "id": 4802,
+    "id": 4498,
+    "type": "url",
+    "value": "http://allegro.prywane893200.casa/lokalnie",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4499,
+    "type": "url",
+    "value": "http://allegro.prywane893200.casa/lokalnie/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4500,
+    "type": "url",
+    "value": "https://rjjohnson.net/webverify/fased.html",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 4501,
+    "type": "url",
+    "value": "https://rjjohnson.net/webverify/fased.html#email@address.hu",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "phishy_path_keyword",
+        "has_@"
+      ]
+    }
+  },
+  {
+    "id": 4502,
+    "type": "url",
+    "value": "https://www.amaaddictionfree.com/account/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4503,
+    "type": "url",
+    "value": "https://www.amaaddictionfree.com/account/turnstile-check",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4504,
+    "type": "url",
+    "value": "https://techbazaronline.co.uk/load",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4505,
+    "type": "url",
+    "value": "https://techbazaronline.co.uk/load/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4506,
+    "type": "url",
+    "value": "https://up-lublin--pl.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4507,
+    "type": "url",
+    "value": "https://myfastmailsss.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4508,
+    "type": "url",
+    "value": "https://03avtd.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4509,
+    "type": "url",
+    "value": "https://oauth-xfinitty.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4510,
+    "type": "url",
+    "value": "https://xfinity323.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4511,
+    "type": "url",
+    "value": "https://homeespl.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4512,
+    "type": "url",
+    "value": "https://pocketmaaal.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4513,
+    "type": "url",
+    "value": "https://spec-trum-charter.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4514,
+    "type": "url",
+    "value": "https://ablewiu.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4515,
+    "type": "url",
+    "value": "https://o2acct.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4516,
+    "type": "url",
+    "value": "https://4outl12.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4517,
+    "type": "url",
+    "value": "https://spectrumsdejaefe.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4518,
+    "type": "url",
+    "value": "https://spectrumdsomains.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4519,
+    "type": "url",
+    "value": "https://account-att-net.webflow.io/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4520,
+    "type": "url",
+    "value": "https://xfinity332.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4521,
+    "type": "url",
+    "value": "https://site-lg94gcvdd.godaddysites.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4522,
+    "type": "url",
+    "value": "https://idspectrumailsignin.weeblysite.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4523,
+    "type": "url",
+    "value": "https://site-za331bkqa.godaddysites.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4524,
+    "type": "url",
+    "value": "https://mdexpress.graviontech.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4525,
+    "type": "url",
+    "value": "https://mdexpress.graviontech.com/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4526,
+    "type": "url",
+    "value": "https://cmm.graviontech.com/pages/mobile/securite/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4527,
+    "type": "url",
+    "value": "https://cmm.graviontech.com/pages/desktop/securite/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4528,
+    "type": "url",
+    "value": "https://cmm.graviontech.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4529,
+    "type": "url",
+    "value": "https://jtexpress.mwkqbr.club/com/#/index",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4530,
+    "type": "url",
+    "value": "https://erutjhpk.login.dwmnhsqa.wccheck-6b3c4826-a.santandertelephony-yfcowbeta.bimp-bot.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4531,
+    "type": "url",
+    "value": "https://acessodigitalprasuaempresa.online",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4532,
+    "type": "url",
+    "value": "http://ne12netempresas.com",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4533,
+    "type": "url",
+    "value": "https://rseoua.water-treatmentplant.com/dlKRClyr",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4534,
+    "type": "url",
+    "value": "http://allegrolokalnie.hmmtl.sbs",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4535,
+    "type": "url",
+    "value": "https://communityacsiarsecbanse.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4536,
+    "type": "url",
+    "value": "https://bacbeneficiosplus.lat/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4537,
+    "type": "url",
+    "value": "https://canjejpuntosbac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4538,
+    "type": "url",
+    "value": "http://ovb2rh9n.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4539,
+    "type": "url",
+    "value": "http://ccygttv2h.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4540,
+    "type": "url",
+    "value": "http://allegrolokalnie.5281921.click/oferta/rower-woom-2-czerwony/83053",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4541,
+    "type": "url",
+    "value": "https://us06web.mints.best/?pwd=80GXrF8Uh532zlRyAAfeSF0.1",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4542,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-846363543.click",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4543,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-oferta912871.sbs/oferta/DJI-Mini-4-Pro-NOWY-4-akumulatory-kontroler-z-wy%C5%9Bwietlaczem/970163110",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4544,
+    "type": "url",
+    "value": "https://penalty-uk.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4545,
+    "type": "url",
+    "value": "https://penalty-uk.com/captcha",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4546,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-ofeta298901261.sbs/oferta/DJI-Osmo-Action-6-Adventure-Combo-Stan-Idealny/783441550",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4547,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl18363.lol/kukirin-g2-master/80849",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4548,
+    "type": "url",
+    "value": "https://canjepuntoscbac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4549,
+    "type": "url",
+    "value": "https://canjepuntosebac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4550,
+    "type": "url",
+    "value": "https://canjepuntostbac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4551,
+    "type": "url",
+    "value": "https://canjepuntosobac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4552,
+    "type": "url",
+    "value": "https://canjepuntosabac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4553,
+    "type": "url",
+    "value": "https://canjepuntoslbac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4554,
+    "type": "url",
+    "value": "https://canjepuntossbac.help/pa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4555,
+    "type": "url",
+    "value": "http://allegrolokalnie.letnie-okazje199547571.cyou",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4556,
+    "type": "url",
+    "value": "https://irs.mydigitalassetcompliance.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4557,
+    "type": "url",
+    "value": "https://status.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4558,
+    "type": "url",
+    "value": "https://direct.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4559,
+    "type": "url",
+    "value": "https://tool.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4560,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-5988.sbs/oferta/Unicraft-PAC-BARDZO-CICHY-Klimatyzator-przeno%C5%9Bny-STAN-JAK-NOWY-CA%C5%81Y-ZESTAW/627549492",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4561,
+    "type": "url",
+    "value": "https://pontos-servicos-app.ct.ws",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4562,
+    "type": "url",
+    "value": "https://app.resgbradelo.online/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4563,
+    "type": "url",
+    "value": "https://johnlennonl.github.io/ficohsa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4564,
+    "type": "url",
+    "value": "https://johnlennonl.github.io/ficohsa/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4565,
+    "type": "url",
+    "value": "https://bradescogerenciadorpj.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4566,
+    "type": "url",
+    "value": "http://gestaodeempresas.info",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4567,
+    "type": "url",
+    "value": "https://suivi5687s.serv4571563.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4568,
+    "type": "url",
+    "value": "https://suivi5687s.serv4571563.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4569,
+    "type": "url",
+    "value": "https://suivi3544o.serv4571563.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4570,
+    "type": "url",
+    "value": "https://suivi3544o.serv4571563.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4571,
+    "type": "url",
+    "value": "https://suivi5347d.serv4571563.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4572,
+    "type": "url",
+    "value": "https://suivi5347d.serv4571563.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4573,
+    "type": "url",
+    "value": "https://suivi5537r.serv4571563.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4574,
+    "type": "url",
+    "value": "https://suivi5537r.serv4571563.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4575,
+    "type": "url",
+    "value": "https://suivi5547o.serv4571563.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4576,
+    "type": "url",
+    "value": "https://suivi5547o.serv4571563.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4577,
+    "type": "url",
+    "value": "https://www.telhasvogel.com.br/erros/pko/img/season/cache/PKO/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4578,
+    "type": "url",
+    "value": "https://amplieeseunovolmt.s3.us-east-005.backblazeb2.com/aumento.html",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4579,
+    "type": "url",
+    "value": "https://delivery052h.liv5781408.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4580,
+    "type": "url",
+    "value": "https://delivery052h.liv5781408.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4581,
+    "type": "url",
+    "value": "https://delivery0625f.liv5781408.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4582,
+    "type": "url",
+    "value": "https://solda.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4583,
+    "type": "url",
+    "value": "https://delivery0625f.liv5781408.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4584,
+    "type": "url",
+    "value": "https://delivery0420e.liv5781408.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4585,
+    "type": "url",
+    "value": "https://delivery0420e.liv5781408.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4586,
+    "type": "url",
+    "value": "https://delivery0626b.liv5781408.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4587,
+    "type": "url",
+    "value": "https://delivery0626b.liv5781408.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4588,
+    "type": "url",
+    "value": "https://delivery0627e.liv5781408.pro/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4589,
+    "type": "url",
+    "value": "https://delivery0627e.liv5781408.pro/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4590,
+    "type": "url",
+    "value": "https://templatemild.info/ben1/xinf",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4591,
+    "type": "url",
+    "value": "http://dwtreinamentos.com.br/olz",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4592,
+    "type": "url",
+    "value": "https://allegrolokalnie.1648b754c91.lol/oferta/id-1ecvsvbm1-Zaglebiarka-Pila-Festool-T55-REBQ---Gwarancja",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4593,
+    "type": "url",
+    "value": "http://allegrolokalnie.pl-638466384.click",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4594,
+    "type": "url",
+    "value": "http://allegrolokalnie.623456ip.top",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 3,
+      "local_reasons": [
+        "suspicious_tld",
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4595,
+    "type": "url",
+    "value": "http://allegrolokalnie.lokalna-93821.sbs",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4596,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl18363.lol/kamikaze-k1-max/79078",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4597,
+    "type": "url",
+    "value": "https://prosperepichomes.in/DKB_new/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4598,
+    "type": "url",
+    "value": "https://www.fcwhlw.com/?tnJMRYL5jX0CONe8ltINqFNL",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4599,
+    "type": "url",
+    "value": "https://admin-support-nz.com/bsdf/wibdx",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4600,
+    "type": "url",
+    "value": "https://jmdzm.com/hlbn",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4601,
+    "type": "url",
+    "value": "https://ijiawu.net/s/nL7oUqek4g",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4602,
+    "type": "url",
+    "value": "https://3weqa6pj.xyz/hlbn",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 4603,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-02019.sbs/oferta/KuKirin-G4-2026-Przebieg-poni%C5%BCej-100-km-Mocna-hulajnoga-elektryczna-Jak-Nowa/573238204?fbclid=IwY2xjawTv6LhwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHoGH5PBG3dpg-_N9UjBVDmnSHh0aXLBOKOUiyv7wGeiLQ3AWvZ089Gn4z9e9_aem_yfFjAvaoVt1zByn33ZtaSg",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4604,
+    "type": "url",
+    "value": "https://registro-de-cita-almhn-2026.cr-web.workers.dev",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4605,
+    "type": "url",
+    "value": "https://registro-de-cita-almhn-2026.cr-web.workers.dev/servicios",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4606,
+    "type": "url",
+    "value": "https://formulario-digital-auyth-2026.cr-web.workers.dev",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4607,
+    "type": "url",
+    "value": "https://formulario-digital-auyth-2026.cr-web.workers.dev/servicios",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4608,
+    "type": "url",
+    "value": "https://mesmerized-dotterel-4bd504.instawp.xyz/3ez/cz/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 3,
+      "local_reasons": [
+        "suspicious_tld",
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4609,
+    "type": "url",
+    "value": "https://flowcode.com/p/kxa8ik81N?fc=0",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4610,
+    "type": "url",
+    "value": "https://allegro.ivkram.space/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4611,
+    "type": "url",
+    "value": "https://www.unionganadera.com.mx/xpo26/phpbarcode/ert/season/app/ts/PKO/app/user.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4612,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-ofeta16xpv0yj004b75v0.shop/oferta/Meta-Quest-3-512GB-z-akcesoriami-stan-idealny-u%C5%BCyte-3-razy/441785751",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4613,
+    "type": "url",
+    "value": "https://irs.getdigitalassetcompliance.com/get-started/35543/andrew-katz",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4614,
+    "type": "url",
+    "value": "https://cdn-4.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4615,
+    "type": "url",
+    "value": "https://87.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4616,
+    "type": "url",
+    "value": "https://websecure-clients-fr.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4617,
+    "type": "url",
+    "value": "https://bbhd.kesug.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4618,
+    "type": "url",
+    "value": "https://ia.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4619,
+    "type": "url",
+    "value": "https://serveris.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4620,
+    "type": "url",
+    "value": "https://sso.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4621,
+    "type": "url",
+    "value": "https://hotels.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4622,
+    "type": "url",
+    "value": "https://test3.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4623,
+    "type": "url",
+    "value": "https://pp.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4624,
+    "type": "url",
+    "value": "http://skin.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4625,
+    "type": "url",
+    "value": "https://staff.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4626,
+    "type": "url",
+    "value": "https://40762eca-78db-459e-a91a-93fbf236de93.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4627,
+    "type": "url",
+    "value": "http://core.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4628,
+    "type": "url",
+    "value": "https://2a35bc58-0cde-4c9d-8d85-26d01c262ba8.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4629,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-oferta764129783.cfd/profesjonalny-t%C5%82umacz-translat/90511",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4630,
+    "type": "url",
+    "value": "https://prime-moncompte.info/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4631,
+    "type": "url",
+    "value": "https://www.prime-moncompte.info/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4632,
+    "type": "url",
+    "value": "https://3uwe63we.hair/offers/1d5epzty0?send_id=awxytlIAwOABfBsG",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4633,
+    "type": "url",
+    "value": "http://claim-771.netlify.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4634,
+    "type": "url",
+    "value": "https://claim-771.netlify.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4635,
+    "type": "url",
+    "value": "https://moncompteespaceclient.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4636,
+    "type": "url",
+    "value": "https://www.moncompteespaceclient.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4637,
+    "type": "url",
+    "value": "https://c-mutuel.moncompteespaceclient.com/pages/desktop/connexion/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4638,
+    "type": "url",
+    "value": "https://c-mutuel.moncompteespaceclient.com/pages/mobile/connexion/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4639,
+    "type": "url",
+    "value": "https://c-mutuel.moncompteespaceclient.com",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4640,
+    "type": "url",
+    "value": "https://www.c-mutuel.moncompteespaceclient.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4641,
+    "type": "url",
+    "value": "https://wttys6522.blogspot.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4642,
+    "type": "url",
+    "value": "https://kleinanzeigen.3329582.com/pWSmdJDR?r=7",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4643,
+    "type": "url",
+    "value": "https://hjh.obp.mybluehost.me/wp-includes/sitemaps/mxpqhlo/legm1oi/jpgxcra/d/auth/login.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "phishy_path_keyword"
+      ]
+    }
+  },
+  {
+    "id": 4644,
+    "type": "url",
+    "value": "https://harte-vermthal.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4645,
+    "type": "url",
+    "value": "https://support-aboplusinfo.help/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4646,
+    "type": "url",
+    "value": "https://client.cnctools.am/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 4647,
+    "type": "url",
+    "value": "https://client.cnctools.am/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 2,
+      "local_reasons": [
+        "suspicious_tld"
+      ]
+    }
+  },
+  {
+    "id": 4648,
+    "type": "url",
+    "value": "https://clientcm.iyno-llc.com/pages/mobile/securite/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4649,
+    "type": "url",
+    "value": "https://clientcm.iyno-llc.com/pages/desktop/securite/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4650,
+    "type": "url",
+    "value": "https://clientcm.iyno-llc.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4651,
+    "type": "url",
+    "value": "https://support-abovideo.help/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4652,
+    "type": "url",
+    "value": "https://www.support-abovideo.help/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4653,
+    "type": "url",
+    "value": "https://support-abovideo.help/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4654,
+    "type": "url",
+    "value": "https://roundcube--cz.webflow.io/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4655,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-oferta91281.sbs/oferta/MSI-GeForce-RTX-4060-Ventus-2X-OC-8GB-GDDR6-DLSS-3/928882475",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4656,
+    "type": "url",
+    "value": "https://securpassverif-ca.com/pages/mobile/connexion/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4657,
+    "type": "url",
+    "value": "https://securpassverif-ca.com/pages/desktop/connexion/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4658,
+    "type": "url",
+    "value": "https://securpassverif-ca.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4659,
+    "type": "url",
+    "value": "https://pl-cxsamz.eu.cc/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4660,
+    "type": "url",
+    "value": "https://amazon.ns-prime.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4661,
+    "type": "url",
+    "value": "https://amazon.ns-prime.com/captcha.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4662,
+    "type": "url",
+    "value": "https://mondial-relivrer-enligne.com/pages/desktop/suivi/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4663,
+    "type": "url",
+    "value": "https://mondial-relivrer-enligne.com/pages/mobile/suivi/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4664,
+    "type": "url",
+    "value": "https://www.costadoroimperia.it/sg/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4665,
+    "type": "url",
+    "value": "http://www.allegrolokalnie.pl-5884747483.click",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4666,
+    "type": "url",
+    "value": "https://facebookloginuser.blogspot.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4667,
+    "type": "url",
+    "value": "https://seguryty-cred-miles-2026--segurity5445.replit.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4668,
+    "type": "url",
+    "value": "https://seguryty-cred-miles-2026--segurity5445.replit.app/index2.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4669,
+    "type": "url",
+    "value": "https://sand1-bnb-bep20.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4670,
+    "type": "url",
+    "value": "https://9jg4qd105.com/Cxpu5t",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4671,
+    "type": "url",
+    "value": "https://wvc3bayjg.com/Cxpu5t",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4672,
+    "type": "url",
+    "value": "https://severe-copper-y92uxuu9.edgeone.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4673,
+    "type": "url",
+    "value": "https://xfinity342.weebly.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4674,
+    "type": "url",
+    "value": "https://rude-black-4tow5jpt.edgeone.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4675,
+    "type": "url",
+    "value": "https://ndax-ca-log.webflow.io/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4676,
+    "type": "url",
+    "value": "https://php-web-server--eduxsoporte.replit.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4677,
+    "type": "url",
+    "value": "https://secure-index-manager--wynjones2017.replit.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4678,
+    "type": "url",
+    "value": "https://dondantyzip--elirdgz.replit.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4679,
+    "type": "url",
+    "value": "https://finiityupdate.dpdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4680,
+    "type": "url",
+    "value": "https://securce-chasce.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4681,
+    "type": "url",
+    "value": "https://securce-chasce.vercel.app/index.html",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4682,
+    "type": "url",
+    "value": "https://empresarialsuporte.live",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4683,
+    "type": "url",
+    "value": "https://prime-centre-index.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4684,
+    "type": "url",
+    "value": "https://prime-centre-index.com/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4685,
+    "type": "url",
+    "value": "https://prime-centre-index.com/annuler.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4686,
+    "type": "url",
+    "value": "https://prime-centre-index.com/white.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4687,
+    "type": "url",
+    "value": "https://www.google.com/share.google?q=WAv2WeLLM67G0a%61Gx",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4688,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-5884747483.click",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4689,
+    "type": "url",
+    "value": "http://bybit-login-app.typedream.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4690,
+    "type": "url",
+    "value": "https://bybit-login-app.typedream.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4691,
+    "type": "url",
+    "value": "http://secure----bybit-login.typedream.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4692,
+    "type": "url",
+    "value": "https://secure----bybit-login.typedream.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4693,
+    "type": "url",
+    "value": "http://allegrolokalnie.bezpieczna-transakcja741026395817624.shop/offer?id=84bc88bca7d3400fa7666e1194d29f4e",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4694,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-ofeta2435245.shop/oferta/Jacuzzi-Ogrodowe-6-osobowe-z-podswietlenirm-LED/712187165?fbclid=IwY2xjawTwLWtwZG9mBWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHrlf4LHgkTvhjdV0fJ56D_JyH5U5YJVqxjztSIgQdjX9oOF5slTy38Q4njY4_aem_SdYfThXiCwraTz25bSLx0g",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4695,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-03928.sbs/oferta/KuKirin-G4-2026-Przebieg-poni%C5%BCej-100-km-Mocna-hulajnoga-elektryczna-Jak-Nowa/573238204?fbclid=IwY2xjawTv_fNwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHlzbekhGl7EOYMxcmt715zLkISXSggtj3lCvFkdVvRct1eAXBcRMA-5Kq7lH_aem_XUMm4s5G6tOfAK_6LNJx4AWys%C5%82ano",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4696,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-867387177425245.lol/meta-quest-3-512-gb-bateria-mi/89578",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4697,
+    "type": "url",
+    "value": "https://kucoine-learn-doce.typedream.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4698,
+    "type": "url",
+    "value": "https://molusque3vfdt.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4699,
+    "type": "url",
+    "value": "http://allegrolokalnie.pl-oferta91281.sbs",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4700,
+    "type": "url",
+    "value": "https://lundi111-recor.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4701,
+    "type": "url",
+    "value": "https://lundi111-recor.com/index.php",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4702,
+    "type": "url",
+    "value": "https://docs.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4703,
+    "type": "url",
+    "value": "https://qdnsyzx.com/creative/design-showcase/item",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4704,
+    "type": "url",
+    "value": "https://sysound.com/products/featured/iphone16e-preview",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4705,
+    "type": "url",
+    "value": "http://allegrolokalnie.shttp.sbs",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4706,
+    "type": "url",
+    "value": "https://webmail-oxcs.networksolutionsemail.com/appsuite/dubaialbarshaescortservice.com/taxxa",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4707,
+    "type": "url",
+    "value": "https://allegrolokalnie.pl-867387177425245.lol/gopro-hero-13-black-ultra-wide/78317",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4708,
+    "type": "url",
+    "value": "https://cimobile178.info/?vrair1chesse",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4709,
+    "type": "url",
+    "value": "https://pt-novobanco.com/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4710,
+    "type": "url",
+    "value": "https://allegrolokalnie.lokalna-067.sbs/oferta/-Myjka-ci%C5%9Bnieniowa-Karcher-K7-Comfort-Premium/625020283",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4711,
+    "type": "url",
+    "value": "https://globaltestlogin.vercel.app",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4712,
+    "type": "url",
+    "value": "https://pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4713,
+    "type": "url",
+    "value": "https://izukm.vu/svc-config-bucket-7f9k/privacy-policy.html?__cf_chl_rt_tk=1biYWuv09oX0sS_HzVWDa43o9qZqOikN1q6L4KQdJYg-1786988135-1.0.1.1-HZZ54oPbEy210hQDB50iEmPmTvRpyn4p9JTuVdS5M04#drnichole@gieskenchiropractic.com",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "has_@"
+      ]
+    }
+  },
+  {
+    "id": 4714,
+    "type": "url",
+    "value": "https://www.ipv6.pb3.duckdns.org/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4715,
+    "type": "url",
+    "value": "https://molusque30.bolt.host/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4716,
+    "type": "url",
+    "value": "https://vlvasortemaiis.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4717,
+    "type": "url",
+    "value": "https://cnce-continuer.bolt.host/?utm=professeur-documentaire",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4718,
+    "type": "url",
+    "value": "https://minhasortegrande.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4719,
+    "type": "url",
+    "value": "http://roguecu25b.pages.dev",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4720,
+    "type": "url",
+    "value": "https://roguecu25b.pages.dev/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4721,
+    "type": "url",
+    "value": "https://bourso-activation.bolt.host/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4722,
+    "type": "url",
+    "value": "https://bourso-activation.bolt.host/index.html",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4723,
+    "type": "url",
+    "value": "https://llamapress.ai/pages/02730b85",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4724,
+    "type": "url",
+    "value": "https://cred-mutuel.bolt.host",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4725,
+    "type": "url",
+    "value": "https://cred-mutuel.bolt.host/index.html",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4726,
+    "type": "url",
+    "value": "https://express-zpedidos.vercel.app/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4727,
+    "type": "url",
+    "value": "https://moisty-mayer80.bolt.host/",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4728,
+    "type": "url",
+    "value": "https://moisty-mayer80.bolt.host/index.html",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4729,
+    "type": "url",
+    "value": "https://ci-app294.info/?vrair1chesse",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 0,
+      "local_reasons": []
+    }
+  },
+  {
+    "id": 4730,
+    "type": "url",
+    "value": "http://allegrolokalnie.lokalna-ofera43267.lol/oferta/playstation-5-pro-z-nap%C4%99dem-i-kontrolerem---zadbana/676558588",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4731,
+    "type": "url",
+    "value": "http://allegrolokalnie.pl-121212.lol/oferta/kukirin-g2-master-2025?fbclid=iwy2xjawtwd-fwzg9mawv4dg4dywvtajewagjyawqrmfm0zm5zdfhwzhdocuvlclnzcnrjbmfwcf9pzbaymjiwmzkxnzg4mjawodkyaaeeqmzbogyp5o6ufebqvnos5qjw2ggqzw8e-stdi5metuga5h8ynfbrjmrrus0_aem_ho02kuszqwifne_pmwkvka",
+    "source": "phishtank",
+    "first_seen": "2026-08-23 10:13:34",
+    "enrichment": {
+      "local_score": 1,
+      "local_reasons": [
+        "long_hostname"
+      ]
+    }
+  },
+  {
+    "id": 4732,
     "type": "url",
     "value": "https://abertoexpress.vercel.app/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4803,
+    "id": 4733,
     "type": "url",
     "value": "https://4ueyhe.hair/offers/njhgcwuka/invoices/f2oBvV",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4804,
+    "id": 4734,
     "type": "url",
     "value": "https://cajaarequipa.portal-online.com.es/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -35,33 +2820,33 @@
     }
   },
   {
-    "id": 4805,
+    "id": 4735,
     "type": "url",
     "value": "https://ww.oblg463412.pro/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4806,
+    "id": 4736,
     "type": "url",
     "value": "https://ww.oblg463412.pro/captcha.php",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4807,
+    "id": 4737,
     "type": "url",
     "value": "https://suivre8633d.oblg463412.pro/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -70,11 +2855,11 @@
     }
   },
   {
-    "id": 4808,
+    "id": 4738,
     "type": "url",
     "value": "https://suivre8633d.oblg463412.pro/captcha.php",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -83,11 +2868,11 @@
     }
   },
   {
-    "id": 4809,
+    "id": 4739,
     "type": "url",
     "value": "https://suivre9953d.oblg463412.pro/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -96,11 +2881,11 @@
     }
   },
   {
-    "id": 4810,
+    "id": 4740,
     "type": "url",
     "value": "https://suivre9953d.oblg463412.pro/captcha.php",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -109,11 +2894,11 @@
     }
   },
   {
-    "id": 4811,
+    "id": 4741,
     "type": "url",
     "value": "https://suivre9956d.oblg463412.pro/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -122,11 +2907,11 @@
     }
   },
   {
-    "id": 4812,
+    "id": 4742,
     "type": "url",
     "value": "https://suivre9956d.oblg463412.pro/captcha.php",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -135,11 +2920,11 @@
     }
   },
   {
-    "id": 4813,
+    "id": 4743,
     "type": "url",
     "value": "https://suivre9933d.oblg463412.pro/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -148,11 +2933,11 @@
     }
   },
   {
-    "id": 4814,
+    "id": 4744,
     "type": "url",
     "value": "https://suivre9933d.oblg463412.pro/captcha.php",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -161,11 +2946,11 @@
     }
   },
   {
-    "id": 4815,
+    "id": 4745,
     "type": "url",
     "value": "http://plus-disney-clone.netlify.app",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -174,11 +2959,11 @@
     }
   },
   {
-    "id": 4816,
+    "id": 4746,
     "type": "url",
     "value": "https://plus-disney-clone.netlify.app/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -187,11 +2972,11 @@
     }
   },
   {
-    "id": 4817,
+    "id": 4747,
     "type": "url",
     "value": "http://allegrolokalnie.pl-754347742.click",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -200,88 +2985,88 @@
     }
   },
   {
-    "id": 4818,
+    "id": 4748,
     "type": "url",
     "value": "https://ovh.auth-eu-manager.com/v20eOk-nyoMk-i1qtQm66-BOnDKG2/index.html?_branch_match_id=1617896537250788542&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT6syNEvVSywo0MvJzMvWd/cKco/IKQgvMU2yrytKTUstKsrMS49PKsovL04tsnXLBIrlVwAACbqpgj0AAAA=",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4819,
+    "id": 4749,
     "type": "url",
     "value": "https://allegro.12300hhbbcc.study/lokalnie/?id=1o9C7U5T7R3F6P7G2B6Z9a0s5P0Z6R7H",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4820,
+    "id": 4750,
     "type": "url",
     "value": "https://te.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4821,
+    "id": 4751,
     "type": "url",
     "value": "http://extranet.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4822,
+    "id": 4752,
     "type": "url",
     "value": "https://buy.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4823,
+    "id": 4753,
     "type": "url",
     "value": "https://adfs.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4824,
+    "id": 4754,
     "type": "url",
     "value": "https://flacka.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4825,
+    "id": 4755,
     "type": "url",
     "value": "https://acb4bf82-c2b5-4fc7-abbf-3a078798c3b3.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -290,110 +3075,110 @@
     }
   },
   {
-    "id": 4826,
+    "id": 4756,
     "type": "url",
     "value": "https://epodatelna.webflow.io/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4827,
+    "id": 4757,
     "type": "url",
     "value": "https://events.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4828,
+    "id": 4758,
     "type": "url",
     "value": "https://static.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4829,
+    "id": 4759,
     "type": "url",
     "value": "https://ru.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4830,
+    "id": 4760,
     "type": "url",
     "value": "https://wap.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4831,
+    "id": 4761,
     "type": "url",
     "value": "https://mumble.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4832,
+    "id": 4762,
     "type": "url",
     "value": "https://library.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4833,
+    "id": 4763,
     "type": "url",
     "value": "https://itdskczech.weebly.com/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4834,
+    "id": 4764,
     "type": "url",
     "value": "https://10.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4835,
+    "id": 4765,
     "type": "url",
     "value": "https://ekaterinburg.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -402,22 +3187,22 @@
     }
   },
   {
-    "id": 4836,
+    "id": 4766,
     "type": "url",
     "value": "https://node1.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4837,
+    "id": 4767,
     "type": "url",
     "value": "http://lyncdiscover.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -426,44 +3211,44 @@
     }
   },
   {
-    "id": 4838,
+    "id": 4768,
     "type": "url",
     "value": "https://meinpetvital.de/crp/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4839,
+    "id": 4769,
     "type": "url",
     "value": "https://jpsrental.com.au/ctips.php/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4840,
+    "id": 4770,
     "type": "url",
     "value": "https://cd.pb3.duckdns.org/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4841,
+    "id": 4771,
     "type": "url",
     "value": "https://allegrolokalnie.lokalna-02019.sbs/oferta/Dyson-V16-Piston-Animal-Submarine-900W-odkurzacz-z-funkcj%C4%85-mycia-pod%C5%82%C3%B3g/434833711",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -472,22 +3257,22 @@
     }
   },
   {
-    "id": 4842,
+    "id": 4772,
     "type": "url",
     "value": "https://podatki-kh.pdtks.com/web/v/?id=418302545",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4843,
+    "id": 4773,
     "type": "url",
     "value": "https://pay.transacaopagamento.online/pedagio",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -496,11 +3281,11 @@
     }
   },
   {
-    "id": 4844,
+    "id": 4774,
     "type": "url",
     "value": "https://cotacaoarcelorof.netlify.app/?gad_source=1",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -509,22 +3294,22 @@
     }
   },
   {
-    "id": 4845,
+    "id": 4775,
     "type": "url",
     "value": "https://voce-liv3l0br.page.gd",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4846,
+    "id": 4776,
     "type": "url",
     "value": "http://allegrolokalnie.lokalna-02019.sbs",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -533,11 +3318,11 @@
     }
   },
   {
-    "id": 4847,
+    "id": 4777,
     "type": "url",
     "value": "https://modest-teammates-135630.framer.app/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -546,11 +3331,11 @@
     }
   },
   {
-    "id": 4848,
+    "id": 4778,
     "type": "url",
     "value": "https://contato.avisoregularizar.app/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -559,11 +3344,11 @@
     }
   },
   {
-    "id": 4849,
+    "id": 4779,
     "type": "url",
     "value": "https://trackingservice.monday.com/tracker/link?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvcmlnaW5hbFVybCI6Imh0dHBzOi8vc2hhcmUuZ29vZ2xlL3VVejlpTEF5V3V2aFN6WnhUIiwiZW1haWxJZCI6ImVjMzdmOTQ3LWQ2MDQtNDA0MS04ZTk4LWNmNjcyZDc3MWJhMSIsImlhdCI6MTc4NjgwMzUxN30.-lkPL3G-DnwEee0OXlprXMY4UE2TCocM1CGXXRFQRAI&r=euc1",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -572,44 +3357,44 @@
     }
   },
   {
-    "id": 4850,
+    "id": 4780,
     "type": "url",
     "value": "https://online-novobanco.com/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4851,
+    "id": 4781,
     "type": "url",
     "value": "https://x-novobanco.com/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4852,
+    "id": 4782,
     "type": "url",
     "value": "http://a-novobanco.com/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4853,
+    "id": 4783,
     "type": "url",
     "value": "https://bienlinea-cwerc3gcd0dqccd5.centralus-01.azurewebsites.net/index.html",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -618,11 +3403,11 @@
     }
   },
   {
-    "id": 4854,
+    "id": 4784,
     "type": "url",
     "value": "https://apply.ggcareersrecruit.com/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -631,88 +3416,88 @@
     }
   },
   {
-    "id": 4855,
+    "id": 4785,
     "type": "url",
     "value": "https://espace-paribas.bolt.host/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4856,
+    "id": 4786,
     "type": "url",
     "value": "https://espace-paribas.bolt.host/index.html",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4857,
+    "id": 4787,
     "type": "url",
     "value": "https://oriri12kf.shop/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4858,
+    "id": 4788,
     "type": "url",
     "value": "https://7s-lpost.shop/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4859,
+    "id": 4789,
     "type": "url",
     "value": "https://6a-lpost.shop/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4860,
+    "id": 4790,
     "type": "url",
     "value": "https://bd7dzn.qpon/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4861,
+    "id": 4791,
     "type": "url",
     "value": "https://d2qlig.cfd/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4862,
+    "id": 4792,
     "type": "url",
     "value": "https://mondial-relivrer-enligne.com/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -721,11 +3506,11 @@
     }
   },
   {
-    "id": 4863,
+    "id": 4793,
     "type": "url",
     "value": "https://mondial-relivrer-enligne.com/index.php",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -734,11 +3519,11 @@
     }
   },
   {
-    "id": 4864,
+    "id": 4794,
     "type": "url",
     "value": "https://lg8ems.top/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 2,
       "local_reasons": [
@@ -747,22 +3532,22 @@
     }
   },
   {
-    "id": 4865,
+    "id": 4795,
     "type": "url",
     "value": "https://er7qfi.casa/o/00olp/7309911045607424#selectedbank9",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 0,
       "local_reasons": []
     }
   },
   {
-    "id": 4866,
+    "id": 4796,
     "type": "url",
     "value": "http://messenger-verrification-supporst.us/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
@@ -771,2827 +3556,11 @@
     }
   },
   {
-    "id": 4867,
+    "id": 4797,
     "type": "url",
     "value": "https://paiment-production.up.railway.app/",
     "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4868,
-    "type": "url",
-    "value": "https://support-postal.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4869,
-    "type": "url",
-    "value": "https://support-postal.com/DUVzTTavlOw/?redirection=login",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4870,
-    "type": "url",
-    "value": "https://support-postal.com/index.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4871,
-    "type": "url",
-    "value": "https://accountverify.au/?r=52af92bf-8b89-4435-b120-23b09c38ef78",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4872,
-    "type": "url",
-    "value": "http://allegro.39099h954g3f212.casa/lokalnie",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4873,
-    "type": "url",
-    "value": "http://allegro.39099h954g3f212.casa/lokalnie/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4874,
-    "type": "url",
-    "value": "https://forms.visme.co/fv/p91n7mqg-yerjdz",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4875,
-    "type": "url",
-    "value": "https://secupass-caissedep.com/index.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4876,
-    "type": "url",
-    "value": "https://secupass-caissedep.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4877,
-    "type": "url",
-    "value": "https://acs-fasclo.eu.cc/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4878,
-    "type": "url",
-    "value": "http://acs-fasclo.eu.cc/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4879,
-    "type": "url",
-    "value": "https://fascicolo-sanitario.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4880,
-    "type": "url",
-    "value": "https://fascicolo-sanitario.com/captcha.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4881,
-    "type": "url",
-    "value": "https://pl-acs.eu.cc/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4882,
-    "type": "url",
-    "value": "http://pl-acs.eu.cc/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4883,
-    "type": "url",
-    "value": "https://amazon.accsubs-prime.eu.cc/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4884,
-    "type": "url",
-    "value": "https://amazon.accsubs-prime.eu.cc/captcha.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4885,
-    "type": "url",
-    "value": "https://reellelux.com/login-check.html",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 4886,
-    "type": "url",
-    "value": "https://commercz.sviluppo.host/web/login.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 4887,
-    "type": "url",
-    "value": "https://pembatalan-pemblokiran-acounts.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4888,
-    "type": "url",
-    "value": "https://xfinittysignin.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4889,
-    "type": "url",
-    "value": "https://xfinitywebmail26.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4890,
-    "type": "url",
-    "value": "https://bigtalkcentres.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4891,
-    "type": "url",
-    "value": "https://xfinity1234.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4892,
-    "type": "url",
-    "value": "https://comcastsecurityupdate.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4893,
-    "type": "url",
-    "value": "https://xxfinityvoice.weeblysite.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4894,
-    "type": "url",
-    "value": "https://newfinity.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4895,
-    "type": "url",
-    "value": "https://securityxfinty.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4896,
-    "type": "url",
-    "value": "https://rolando5435.wixsite.com/thaquariumorgbeautym",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4897,
-    "type": "url",
-    "value": "http://mail.prime-9383.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4898,
-    "type": "url",
-    "value": "http://mail.sigma-3e69.fr",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4899,
-    "type": "url",
-    "value": "http://mail.delta-0b19.fr",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4900,
-    "type": "url",
-    "value": "http://mail.swift-eeb2.com",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4901,
-    "type": "url",
-    "value": "http://mail.sendhub-a4b7.net",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4902,
-    "type": "url",
-    "value": "http://mail.mailflow-4fb8.fr",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4903,
-    "type": "url",
-    "value": "http://571259420.swh.strato-hosting.eu/maint/advalak3/advalak3/app/login.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "long_hostname",
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 4904,
-    "type": "url",
-    "value": "https://yummy-diplodocus-081216.framer.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4905,
-    "type": "url",
-    "value": "https://support-souscriptionaboplus.help/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4906,
-    "type": "url",
-    "value": "https://www.support-souscriptionaboplus.help/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4907,
-    "type": "url",
-    "value": "https://support-souscriptionaboplus.help/app",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4908,
-    "type": "url",
-    "value": "https://support-souscriptionvideo.help/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4909,
-    "type": "url",
-    "value": "https://www.support-souscriptionvideo.help/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4910,
-    "type": "url",
-    "value": "https://support-souscriptionvideo.help/app",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4911,
-    "type": "url",
-    "value": "https://login.sh-hcty.com/?NilWWDRus7v1PPra06SbnYIM",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4912,
-    "type": "url",
-    "value": "https://www.fmpqwyp.cn/login",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 3,
-      "local_reasons": [
-        "suspicious_tld",
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 4913,
-    "type": "url",
-    "value": "https://www.fmpqwyp.cn/vou6v98q",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 4914,
-    "type": "url",
-    "value": "https://www.kfckid.com/?LbJWVAXxsgpjLYzfSlXUuV2k",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4915,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-oferta2691457.shop",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4916,
-    "type": "url",
-    "value": "https://xveongezolzvl.top/jp",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 4917,
-    "type": "url",
-    "value": "https://justotakuthings.com/deal/nglqoiqral",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4918,
-    "type": "url",
-    "value": "https://yeydynoxqryw.top/jp",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 4919,
-    "type": "url",
-    "value": "https://colagenoyhialuronico.com/deal/jozpfftevx",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4920,
-    "type": "url",
-    "value": "https://www.halsocrest.shop/domesticescv/shoufu/standardsets/reevglularcidio=PR1002",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4921,
-    "type": "url",
-    "value": "https://tr.ee/Xh77da",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4922,
-    "type": "url",
-    "value": "https://justekg.com/hlbn",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4923,
-    "type": "url",
-    "value": "https://mxlvz.com/out/esW1oitLRn",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4924,
-    "type": "url",
-    "value": "https://allegrolokalnie.lokalna-833.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4925,
-    "type": "url",
-    "value": "http://allegrolokalnie.lokalna-833.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4926,
-    "type": "url",
-    "value": "https://uf2y5vnu.bgp04.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4927,
-    "type": "url",
-    "value": "https://kkq1ki.bgp04.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4928,
-    "type": "url",
-    "value": "https://kkq1ki.bgp04.sbs/?r=",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4929,
-    "type": "url",
-    "value": "https://rf74wj.bgp04.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4930,
-    "type": "url",
-    "value": "https://p93u1.bgp04.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4931,
-    "type": "url",
-    "value": "https://p93u1.bgp04.sbs/?r=",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4932,
-    "type": "url",
-    "value": "https://suuzwsvomtk.sixiakq.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4933,
-    "type": "url",
-    "value": "https://suuzwsvomtk.sixiakq.com/mljouqd/?r=",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4934,
-    "type": "url",
-    "value": "https://suuzwsvomtk.sixiakq.com/mljouqd?r=",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4935,
-    "type": "url",
-    "value": "https://allegrolokalnie.rezerwacja5645.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4936,
-    "type": "url",
-    "value": "https://gastric-turquoise-uqpzxsmk.edgeone.dev/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4937,
-    "type": "url",
-    "value": "https://cpcontacts.129-121-126-107.cprapid.com/login/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "long_hostname",
-        "phishy_path_keyword"
-      ]
-    }
-  },
-  {
-    "id": 4938,
-    "type": "url",
-    "value": "https://ingreseaqui365.webcindario.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4939,
-    "type": "url",
-    "value": "https://cardiffcancelacionseguro360.vercel.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4940,
-    "type": "url",
-    "value": "https://cancelarsegurodecardiff360.vercel.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4941,
-    "type": "url",
-    "value": "https://cancelarcardiffseguro360.vercel.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4942,
-    "type": "url",
-    "value": "https://xfinity-upgrade2.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4943,
-    "type": "url",
-    "value": "https://updateversescoopyah.dpdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4944,
-    "type": "url",
-    "value": "https://updatescoopyahoo.dpdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4945,
-    "type": "url",
-    "value": "https://gmail-account.vercel.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4946,
-    "type": "url",
-    "value": "http://allegrolokalnie.lokalna-oferta7985432.lol/oferta/playstation-5-pro-z-napedem-%96-wlaczona-1-raz,-gwarancja-",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4947,
-    "type": "url",
-    "value": "http://allegrolokalnie.lokalna-oferta7985432.lol/oferta/playstation-5-pro-z-nap%C4%99dem-%E2%80%93-w%C5%82%C4%85czona-1-raz,-gwarancja-",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4948,
-    "type": "url",
-    "value": "https://allegrolokalnie.867534.lol/konsola-sony-ps5-zestaw/59206",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4949,
-    "type": "url",
-    "value": "http://allegrolokalnie.707585.lol/oferta/id-n5hy8-konsola-sony-ps5-zestaw",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4950,
-    "type": "url",
-    "value": "http://allegrolokalnie.623413de.top",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 3,
-      "local_reasons": [
-        "suspicious_tld",
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4951,
-    "type": "url",
-    "value": "http://allegro.39099h954g3f212.casa",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4952,
-    "type": "url",
-    "value": "http://allegrolokalnie.lokalna-ofeta28921.sbs/oferta/hulajnoga-elektryczna-kukirin-g4-tylko-213km-przebiegu/792792601",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4953,
-    "type": "url",
-    "value": "https://tmalllady.com/platform/user/security/identity-verification",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4954,
-    "type": "url",
-    "value": "http://allegrolokalnie.pln738.lol/oferta/id-13e2do-witam-sprzedam-nowy-oryginalny-procesor-amd-ryzen-7-5800x3d",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4955,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta1122738485522.xyz/offer?id=dcb49b9c657143db8cf063ab83604da4",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:16",
-    "enrichment": {
-      "local_score": 3,
-      "local_reasons": [
-        "suspicious_tld",
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4009,
-    "type": "url",
-    "value": "https://claim-0az.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4010,
-    "type": "url",
-    "value": "https://claim-gpq.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4011,
-    "type": "url",
-    "value": "http://claim-gpq.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4012,
-    "type": "url",
-    "value": "http://allegrolokalne.pl-489689124.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4013,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-746373638.click",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4014,
-    "type": "url",
-    "value": "http://allegrolokainie.pl-489689124.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4015,
-    "type": "url",
-    "value": "http://claim-s1d.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4016,
-    "type": "url",
-    "value": "https://claim-s1d.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4017,
-    "type": "url",
-    "value": "http://claim-uzx.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4018,
-    "type": "url",
-    "value": "https://claim-uzx.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4019,
-    "type": "url",
-    "value": "http://claim-v10.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4020,
-    "type": "url",
-    "value": "https://claim-v10.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4021,
-    "type": "url",
-    "value": "http://claim-gli.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4022,
-    "type": "url",
-    "value": "https://claim-gli.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4023,
-    "type": "url",
-    "value": "http://claim-3jb.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4024,
-    "type": "url",
-    "value": "https://claim-3jb.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4025,
-    "type": "url",
-    "value": "http://claim-fak.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4026,
-    "type": "url",
-    "value": "https://claim-fak.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4027,
-    "type": "url",
-    "value": "http://newweeklyscorevoting-ui.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4028,
-    "type": "url",
-    "value": "https://newweeklyscorevoting-ui.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4029,
-    "type": "url",
-    "value": "http://claim-tko.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4030,
-    "type": "url",
-    "value": "https://claim-tko.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4031,
-    "type": "url",
-    "value": "http://claim-khw.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4032,
-    "type": "url",
-    "value": "https://claim-khw.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4033,
-    "type": "url",
-    "value": "http://claim-dmu.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4034,
-    "type": "url",
-    "value": "https://claim-dmu.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4035,
-    "type": "url",
-    "value": "http://claim-ojo.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4036,
-    "type": "url",
-    "value": "https://claim-ojo.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4037,
-    "type": "url",
-    "value": "https://newcheckeligibilitypage-ux.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4038,
-    "type": "url",
-    "value": "http://newcheckeligibilitypage-ux.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4039,
-    "type": "url",
-    "value": "http://claim-ihu.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4040,
-    "type": "url",
-    "value": "https://claim-ihu.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4041,
-    "type": "url",
-    "value": "http://claim-fn2.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4042,
-    "type": "url",
-    "value": "https://claim-fn2.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4043,
-    "type": "url",
-    "value": "https://allegro.oferta-lokalana96340081532.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4044,
-    "type": "url",
-    "value": "https://allegro.pl-oferta981912111.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4045,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta-lokalana989714.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4046,
-    "type": "url",
-    "value": "https://allegrolokalnie.pl-oferta2912190.click",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4047,
-    "type": "url",
-    "value": "https://allegro.oferta-lokalna8654968923445.shop",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4048,
-    "type": "url",
-    "value": "http://allegro.oferta-lokalna8654968923445.shop",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4049,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta-lokalna8654968923445.shop",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4050,
-    "type": "url",
-    "value": "http://allegrolokalnie.idd1r122v2.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4051,
-    "type": "url",
-    "value": "http://allegro.oferta389212.click",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4052,
-    "type": "url",
-    "value": "http://allegrolokalnie.nr-032789432.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4053,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta389212.click",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4054,
-    "type": "url",
-    "value": "http://allegro.pl-473935.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4055,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta194178214141.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4056,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-473935.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4057,
-    "type": "url",
-    "value": "http://allegro.oferta194178214141.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4058,
-    "type": "url",
-    "value": "https://fatturazione-aruba.pikapod.net/.success/connect/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4059,
-    "type": "url",
-    "value": "https://share.google/eqyucT8fteTSR7TP8",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4060,
-    "type": "url",
-    "value": "https://allegro.lokalna-849641.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4061,
-    "type": "url",
-    "value": "https://olx.mojekontosprzedazowe.cyou/orders/f930809a/dywaniki_na_pod\u00c5\u0082og\u00c4\u0099_prestige_line_scania_seria_s_od_2017_fotel_pasa\u00c5\u00bcera_amortyzowany_lub_obrotowy_czarny/bank/id24424?modal_stage=call_request",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4062,
-    "type": "url",
-    "value": "http://allegro.lokalna-048261.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4063,
-    "type": "url",
-    "value": "https://allegro.lokalna-039248.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4064,
-    "type": "url",
-    "value": "http://allegrolokalnie.19246c47b861.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4065,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl72416.top",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 3,
-      "local_reasons": [
-        "suspicious_tld",
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4066,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta50526396.xyz",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 3,
-      "local_reasons": [
-        "suspicious_tld",
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4067,
-    "type": "url",
-    "value": "http://allegrolokalnie.letnie-okazje1194875705.cyou",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4068,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-oferta37377382.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4069,
-    "type": "url",
-    "value": "http://allegrolokalnie.oferta-lokalana37198264.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4070,
-    "type": "url",
-    "value": "http://allegro.oferta-lokalana37198264.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4071,
-    "type": "url",
-    "value": "https://allegrolokalnie.lokalna-039248.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4072,
-    "type": "url",
-    "value": "https://crear-solicitud-49012.vercel.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4073,
-    "type": "url",
-    "value": "https://kern-kapithal.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4074,
-    "type": "url",
-    "value": "https://jdjdldkenrkf.sbs/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4075,
-    "type": "url",
-    "value": "https://fabulous-cucurucho-3d90fe.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4076,
-    "type": "url",
-    "value": "https://shopee-with.vercel.app/banks",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4077,
-    "type": "url",
-    "value": "https://www.seguroalz.com/ingresa-tus-datos/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4078,
-    "type": "url",
-    "value": "https://www.alzinfoseg.com/autenticacion",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4079,
-    "type": "url",
-    "value": "https://eprime-access-index.com/index.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4080,
-    "type": "url",
-    "value": "https://eprime-access-index.com",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4081,
-    "type": "url",
-    "value": "https://allegrolokalnie.lokalna-849641.sbs/oferta/Thermomix-TM6-nowy-nigdy-nieu%C5%BCywany/342173245?fbclid=IwY2xjawT2VfJwZG9mAWV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHtTuPpkISIb4cHV70XB1TPrQ2WTNAsqsSxBDeYAKyfKx3mk3mdCckr0KHf1j_aem_NsXj7T-nO8cOj9nbPAXKsw",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4082,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-oferta81811.sbs",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4083,
-    "type": "url",
-    "value": "https://allegrolokalnie.pl-oferta81811.sbs/oferta/xbox-series-x-1tb-pad/585264958",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4084,
-    "type": "url",
-    "value": "https://classy-kulfi-c3cd9f.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4085,
-    "type": "url",
-    "value": "https://server-indexer--themtnman.replit.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4086,
-    "type": "url",
-    "value": "https://secure-page-creator--ccnew.replit.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4087,
-    "type": "url",
-    "value": "https://server-docs--grangevalleyarn.replit.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4088,
-    "type": "url",
-    "value": "https://simple-security-page--aphroditesaless.replit.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4089,
-    "type": "url",
-    "value": "https://shipment2020a.m20156241.pro//",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4090,
-    "type": "url",
-    "value": "https://shipment2021e.m20156241.pro/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4091,
-    "type": "url",
-    "value": "https://www.ubarinvest.com/Rftrans/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4092,
-    "type": "url",
-    "value": "https://shipment2022r.m20156241.pro/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4093,
-    "type": "url",
-    "value": "https://notice-655201.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4094,
-    "type": "url",
-    "value": "https://notice-655201.com/suivi",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4095,
-    "type": "url",
-    "value": "https://support-acs.eu.cc/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4096,
-    "type": "url",
-    "value": "https://prime.support-pl.com/asx4878",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4097,
-    "type": "url",
-    "value": "https://hub-browse.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4098,
-    "type": "url",
-    "value": "https://hub-browse.com/captcha",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4099,
-    "type": "url",
-    "value": "https://application.colibriathenas.com.br/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4100,
-    "type": "url",
-    "value": "http://auths-io-coinsquare-sso-sso.webflow.io/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4101,
-    "type": "url",
-    "value": "https://auths-io-coinsquare-sso-sso.webflow.io/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4102,
-    "type": "url",
-    "value": "https://activat-securi.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4103,
-    "type": "url",
-    "value": "https://www.activat-securi.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4104,
-    "type": "url",
-    "value": "https://ncap.rjvmp.ink/gov.ph",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4105,
-    "type": "url",
-    "value": "https://orange.fr-particulier-espace.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4106,
-    "type": "url",
-    "value": "https://orange.fr-particulier-espace.com/index.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4107,
-    "type": "url",
-    "value": "https://btinternet-maintenance-update106043-104089.weeblysite.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4108,
-    "type": "url",
-    "value": "https://telstra-106076-45e2aef8092c.weeblysite.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4109,
-    "type": "url",
-    "value": "https://shaw-webmail-104660.weeblysite.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4110,
-    "type": "url",
-    "value": "https://lovely-surprise-937079.framer.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4111,
-    "type": "url",
-    "value": "https://vibrant-hand-525680.framer.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4112,
-    "type": "url",
-    "value": "https://chatty-english-473585.framer.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4113,
-    "type": "url",
-    "value": "https://ambiguous-travel-171781.framer.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4114,
-    "type": "url",
-    "value": "https://88879002123.weebly.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4115,
-    "type": "url",
-    "value": "https://att-107463-109949.weeblysite.com/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4116,
-    "type": "url",
-    "value": "https://shawcaa1qq.framer.website/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4117,
-    "type": "url",
-    "value": "https://asergrsthdtyhtyj.framer.wiki/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4118,
-    "type": "url",
-    "value": "https://help-kucoinn-eng.framer.ai/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4119,
-    "type": "url",
-    "value": "https://tp.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4120,
-    "type": "url",
-    "value": "https://ec.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4121,
-    "type": "url",
-    "value": "https://eng-kucoin-us-help.framer.ai/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4122,
-    "type": "url",
-    "value": "https://stardlive.framer.website/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4123,
-    "type": "url",
-    "value": "https://pop.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4124,
-    "type": "url",
-    "value": "http://petrozavodsk.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4125,
-    "type": "url",
-    "value": "https://support.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4126,
-    "type": "url",
-    "value": "http://affiliate.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4127,
-    "type": "url",
-    "value": "http://track.pb3.duckdns.org/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4128,
-    "type": "url",
-    "value": "https://login-pn-reinventabanbif.netlify.app/work/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4129,
-    "type": "url",
-    "value": "https://login-pn-reinventabanbif.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4130,
-    "type": "url",
-    "value": "https://www-kapitall.click/BN/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4131,
-    "type": "url",
-    "value": "https://www-kapitall.xyz/BN/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 2,
-      "local_reasons": [
-        "suspicious_tld"
-      ]
-    }
-  },
-  {
-    "id": 4132,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-oferta812281.lol/oferta/kingston-fury-beast-ddr5-ram-64gb-2x32gb-6000mhz/689589347",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4133,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-oferta812281.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4134,
-    "type": "url",
-    "value": "https://overeni-b660ff.webflow.io/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4135,
-    "type": "url",
-    "value": "https://prime-assistance.com/index.php",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4136,
-    "type": "url",
-    "value": "https://la-87587885-pdgtyu.s3.amazonaws.com/index.html",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4137,
-    "type": "url",
-    "value": "https://www4.kapitall.my/BN/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4138,
-    "type": "url",
-    "value": "https://www4.kapitall.life/BN/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4139,
-    "type": "url",
-    "value": "http://www.allegrolokalnie.pl-77655.top",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 3,
-      "local_reasons": [
-        "suspicious_tld",
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4140,
-    "type": "url",
-    "value": "https://caixa-benefits.pages.dev/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4141,
-    "type": "url",
-    "value": "https://irsci.online",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4142,
-    "type": "url",
-    "value": "https://irsci.net",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4143,
-    "type": "url",
-    "value": "https://claim-ya3.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4144,
-    "type": "url",
-    "value": "http://claim-ya3.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4145,
-    "type": "url",
-    "value": "http://claim-qcx.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4146,
-    "type": "url",
-    "value": "https://claim-qcx.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4147,
-    "type": "url",
-    "value": "https://claim-9kd.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4148,
-    "type": "url",
-    "value": "http://claim-9kd.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4149,
-    "type": "url",
-    "value": "http://claim-ezb.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4150,
-    "type": "url",
-    "value": "https://claim-ezb.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4151,
-    "type": "url",
-    "value": "https://claim-nz0.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4152,
-    "type": "url",
-    "value": "http://claim-nz0.netlify.app/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 0,
-      "local_reasons": []
-    }
-  },
-  {
-    "id": 4153,
-    "type": "url",
-    "value": "https://allegrolokalnie.pl-oferta9810.lol/",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
-    "enrichment": {
-      "local_score": 1,
-      "local_reasons": [
-        "long_hostname"
-      ]
-    }
-  },
-  {
-    "id": 4154,
-    "type": "url",
-    "value": "http://allegrolokalnie.pl-oferta9810.lol",
-    "source": "phishtank",
-    "first_seen": "2026-08-23 09:18:15",
+    "first_seen": "2026-08-23 10:13:34",
     "enrichment": {
       "local_score": 1,
       "local_reasons": [
